@@ -1,0 +1,12 @@
+Processing subject sub-02, run 03
+Output directory created at: /Volumes/T7_Shield/BIDS/derivatives/topup_correction/sub-02/ses-baseline/run-03/func/topup_results_run_03
+Running topup with:
+  Input AP/PA file: /Volumes/T7_Shield/BIDS/derivatives/topup_correction/sub-02/ses-baseline/run-03/func/sub-02_AP_PA_run-03.nii.gz
+  Acquisition parameters file: /Volumes/T7_Shield/BIDS/derivatives/topup_correction/sub-02/ses-baseline/run-03/func/sub-02_acq_param_run-03.txt
+  Output Topup file: /Volumes/T7_Shield/BIDS/derivatives/topup_correction/sub-02/ses-baseline/run-03/func/topup_results_run_03/topup_results
+Topup completed. Corrected output: /Volumes/T7_Shield/BIDS/derivatives/topup_correction/sub-02/ses-baseline/run-03/func/topup_results_run_03/corrected_AP_PA_run03.nii.gz
+Running applytopup with:
+  Input functional file: /Volumes/T7_Shield/BIDS/derivatives/topup_correction/sub-02/ses-baseline/run-03/func/sub-02_ses-baseline_acq-AP_run-03.nii.gz
+  Topup results file: /Volumes/T7_Shield/BIDS/derivatives/topup_correction/sub-02/ses-baseline/run-03/func/topup_results_run_03/topup_results
+  Output corrected functional file: /Volumes/T7_Shield/BIDS/derivatives/topup_correction/sub-02/ses-baseline/run-03/func/topup_results_run_03/sub-02_corrected_task-assoc_memory_run-03_bold.nii.gz
+Applytopup completed. Corrected file: /Volumes/T7_Shield/BIDS/derivatives/topup_correction/sub-02/ses-baseline/run-03/func/topup_results_run_03/sub-02_corrected_task-assoc_memory_run-03_bold.nii.gz

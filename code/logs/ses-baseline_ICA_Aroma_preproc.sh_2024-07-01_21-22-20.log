@@ -1,0 +1,92 @@
+Starting preprocessing...
+Processing Subject: sub-15, Run: 01
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-15/feat_preproc/ses-baseline/sub-15_corrected_task-assoc_memory_run-01_preproc
+Functional File: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-15/ses-baseline/func/sub-15_corrected_task-assoc_memory_run-01_bold.nii.gz
+High-Res File: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-15/ses-baseline/anat/sub-15_T1w_brain.nii.gz
+Applying BET on /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-15/feat_preproc/ses-baseline/sub-15_corrected_task-assoc_memory_run-01_preproc.feat/example_func.nii.gz
+Processing Subject: sub-15, Run: 02
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-15/feat_preproc/ses-baseline/sub-15_corrected_task-assoc_memory_run-02_preproc
+Functional File: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-15/ses-baseline/func/sub-15_corrected_task-assoc_memory_run-02_bold.nii.gz
+High-Res File: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-15/ses-baseline/anat/sub-15_T1w_brain.nii.gz
+Applying BET on /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-15/feat_preproc/ses-baseline/sub-15_corrected_task-assoc_memory_run-02_preproc.feat/example_func.nii.gz
+Processing Subject: sub-15, Run: 03
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-15/feat_preproc/ses-baseline/sub-15_corrected_task-assoc_memory_run-03_preproc
+Functional File: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-15/ses-baseline/func/sub-15_corrected_task-assoc_memory_run-03_bold.nii.gz
+High-Res File: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-15/ses-baseline/anat/sub-15_T1w_brain.nii.gz
+Applying BET on /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-15/feat_preproc/ses-baseline/sub-15_corrected_task-assoc_memory_run-03_preproc.feat/example_func.nii.gz
+Processing Subject: sub-16, Run: 01
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-16/feat_preproc/ses-baseline/sub-16_corrected_task-assoc_memory_run-01_preproc
+Functional File: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-16/ses-baseline/func/sub-16_corrected_task-assoc_memory_run-01_bold.nii.gz
+High-Res File: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-16/ses-baseline/anat/sub-16_T1w_brain.nii.gz
+Applying BET on /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-16/feat_preproc/ses-baseline/sub-16_corrected_task-assoc_memory_run-01_preproc.feat/example_func.nii.gz
+Processing Subject: sub-16, Run: 02
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-16/feat_preproc/ses-baseline/sub-16_corrected_task-assoc_memory_run-02_preproc
+Functional File: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-16/ses-baseline/func/sub-16_corrected_task-assoc_memory_run-02_bold.nii.gz
+High-Res File: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-16/ses-baseline/anat/sub-16_T1w_brain.nii.gz
+Applying BET on /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-16/feat_preproc/ses-baseline/sub-16_corrected_task-assoc_memory_run-02_preproc.feat/example_func.nii.gz
+Processing Subject: sub-16, Run: 03
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-16/feat_preproc/ses-baseline/sub-16_corrected_task-assoc_memory_run-03_preproc
+Functional File: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-16/ses-baseline/func/sub-16_corrected_task-assoc_memory_run-03_bold.nii.gz
+High-Res File: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-16/ses-baseline/anat/sub-16_T1w_brain.nii.gz
+Applying BET on /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-16/feat_preproc/ses-baseline/sub-16_corrected_task-assoc_memory_run-03_preproc.feat/example_func.nii.gz
+Processing Subject: sub-17, Run: 01
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-17/feat_preproc/ses-baseline/sub-17_corrected_task-assoc_memory_run-01_preproc
+Functional File: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-17/ses-baseline/func/sub-17_corrected_task-assoc_memory_run-01_bold.nii.gz
+High-Res File: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-17/ses-baseline/anat/sub-17_T1w_brain.nii.gz
+Applying BET on /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-17/feat_preproc/ses-baseline/sub-17_corrected_task-assoc_memory_run-01_preproc.feat/example_func.nii.gz
+Processing Subject: sub-17, Run: 02
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-17/feat_preproc/ses-baseline/sub-17_corrected_task-assoc_memory_run-02_preproc
+Functional File: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-17/ses-baseline/func/sub-17_corrected_task-assoc_memory_run-02_bold.nii.gz
+High-Res File: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-17/ses-baseline/anat/sub-17_T1w_brain.nii.gz
+Applying BET on /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-17/feat_preproc/ses-baseline/sub-17_corrected_task-assoc_memory_run-02_preproc.feat/example_func.nii.gz
+Processing Subject: sub-17, Run: 03
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-17/feat_preproc/ses-baseline/sub-17_corrected_task-assoc_memory_run-03_preproc
+Functional File: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-17/ses-baseline/func/sub-17_corrected_task-assoc_memory_run-03_bold.nii.gz
+High-Res File: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-17/ses-baseline/anat/sub-17_T1w_brain.nii.gz
+Applying BET on /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-17/feat_preproc/ses-baseline/sub-17_corrected_task-assoc_memory_run-03_preproc.feat/example_func.nii.gz
+Processing Subject: sub-18, Run: 01
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-18/feat_preproc/ses-baseline/sub-18_corrected_task-assoc_memory_run-01_preproc
+Functional File: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-18/ses-baseline/func/sub-18_corrected_task-assoc_memory_run-01_bold.nii.gz
+High-Res File: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-18/ses-baseline/anat/sub-18_T1w_brain.nii.gz
+Applying BET on /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-18/feat_preproc/ses-baseline/sub-18_corrected_task-assoc_memory_run-01_preproc.feat/example_func.nii.gz
+Processing Subject: sub-18, Run: 02
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-18/feat_preproc/ses-baseline/sub-18_corrected_task-assoc_memory_run-02_preproc
+Functional File: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-18/ses-baseline/func/sub-18_corrected_task-assoc_memory_run-02_bold.nii.gz
+High-Res File: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-18/ses-baseline/anat/sub-18_T1w_brain.nii.gz
+Applying BET on /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-18/feat_preproc/ses-baseline/sub-18_corrected_task-assoc_memory_run-02_preproc.feat/example_func.nii.gz
+Processing Subject: sub-18, Run: 03
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-18/feat_preproc/ses-baseline/sub-18_corrected_task-assoc_memory_run-03_preproc
+Functional File: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-18/ses-baseline/func/sub-18_corrected_task-assoc_memory_run-03_bold.nii.gz
+High-Res File: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-18/ses-baseline/anat/sub-18_T1w_brain.nii.gz
+Applying BET on /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-18/feat_preproc/ses-baseline/sub-18_corrected_task-assoc_memory_run-03_preproc.feat/example_func.nii.gz
+Processing Subject: sub-19, Run: 01
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-19/feat_preproc/ses-baseline/sub-19_corrected_task-assoc_memory_run-01_preproc
+Functional File: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-19/ses-baseline/func/sub-19_corrected_task-assoc_memory_run-01_bold.nii.gz
+High-Res File: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-19/ses-baseline/anat/sub-19_T1w_brain.nii.gz
+Applying BET on /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-19/feat_preproc/ses-baseline/sub-19_corrected_task-assoc_memory_run-01_preproc.feat/example_func.nii.gz
+Processing Subject: sub-19, Run: 02
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-19/feat_preproc/ses-baseline/sub-19_corrected_task-assoc_memory_run-02_preproc
+Functional File: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-19/ses-baseline/func/sub-19_corrected_task-assoc_memory_run-02_bold.nii.gz
+High-Res File: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-19/ses-baseline/anat/sub-19_T1w_brain.nii.gz
+Applying BET on /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-19/feat_preproc/ses-baseline/sub-19_corrected_task-assoc_memory_run-02_preproc.feat/example_func.nii.gz
+Processing Subject: sub-19, Run: 03
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-19/feat_preproc/ses-baseline/sub-19_corrected_task-assoc_memory_run-03_preproc
+Functional File: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-19/ses-baseline/func/sub-19_corrected_task-assoc_memory_run-03_bold.nii.gz
+High-Res File: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-19/ses-baseline/anat/sub-19_T1w_brain.nii.gz
+Applying BET on /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-19/feat_preproc/ses-baseline/sub-19_corrected_task-assoc_memory_run-03_preproc.feat/example_func.nii.gz
+Processing Subject: sub-20, Run: 01
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-20/feat_preproc/ses-baseline/sub-20_corrected_task-assoc_memory_run-01_preproc
+Functional File: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-20/ses-baseline/func/sub-20_corrected_task-assoc_memory_run-01_bold.nii.gz
+High-Res File: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-20/ses-baseline/anat/sub-20_T1w_brain.nii.gz
+Applying BET on /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-20/feat_preproc/ses-baseline/sub-20_corrected_task-assoc_memory_run-01_preproc.feat/example_func.nii.gz
+Processing Subject: sub-20, Run: 02
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-20/feat_preproc/ses-baseline/sub-20_corrected_task-assoc_memory_run-02_preproc
+Functional File: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-20/ses-baseline/func/sub-20_corrected_task-assoc_memory_run-02_bold.nii.gz
+High-Res File: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-20/ses-baseline/anat/sub-20_T1w_brain.nii.gz
+Applying BET on /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-20/feat_preproc/ses-baseline/sub-20_corrected_task-assoc_memory_run-02_preproc.feat/example_func.nii.gz
+Processing Subject: sub-20, Run: 03
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-20/feat_preproc/ses-baseline/sub-20_corrected_task-assoc_memory_run-03_preproc
+Functional File: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-20/ses-baseline/func/sub-20_corrected_task-assoc_memory_run-03_bold.nii.gz
+High-Res File: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-20/ses-baseline/anat/sub-20_T1w_brain.nii.gz
+Applying BET on /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-20/feat_preproc/ses-baseline/sub-20_corrected_task-assoc_memory_run-03_preproc.feat/example_func.nii.gz
+Preprocessing complete.

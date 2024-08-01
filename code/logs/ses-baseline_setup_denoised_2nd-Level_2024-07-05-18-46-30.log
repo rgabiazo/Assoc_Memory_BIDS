@@ -1,0 +1,9 @@
+Starting script...
+Processing subject: sub-29
+Processing run: 01
+Successfully copied reg folder from /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-29/feat_preproc/ses-baseline/sub-29_corrected_task-assoc_memory_run-01_preproc.feat/reg to /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-29/feat_stats/ses-baseline/denoised_task-assoc_memory_run-01.feat
+Processing run: 02
+Successfully copied reg folder from /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-29/feat_preproc/ses-baseline/sub-29_corrected_task-assoc_memory_run-02_preproc.feat/reg to /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-29/feat_stats/ses-baseline/denoised_task-assoc_memory_run-02.feat
+Processing run: 03
+Successfully copied reg folder from /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-29/feat_preproc/ses-baseline/sub-29_corrected_task-assoc_memory_run-03_preproc.feat/reg to /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-29/feat_stats/ses-baseline/denoised_task-assoc_memory_run-03.feat
+Script execution completed.

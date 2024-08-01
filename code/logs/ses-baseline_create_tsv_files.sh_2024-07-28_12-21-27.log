@@ -1,0 +1,32 @@
+Log file created at /Volumes/T7_Shield/BIDS/code/logs/ses-baseline_create_tsv_files.sh_2024-07-28_12-21-27.log
+Processing face for run 1 of sub-02...
+Using encoding file: /Volumes/T7_Shield/BIDS/sourcedata/custom_txt/sub-02/ses-baseline/encoding_response_data_face_run1_P002_BASELINE.txt
+Using recognition file: /Volumes/T7_Shield/BIDS/sourcedata/custom_txt/sub-02/ses-baseline/recog_response_data_face_run1_P002_BASELINE.txt
+Processing place for run 1 of sub-02...
+Using encoding file: /Volumes/T7_Shield/BIDS/sourcedata/custom_txt/sub-02/ses-baseline/encoding_response_data_place_run1_P002_BASELINE.txt
+Using recognition file: /Volumes/T7_Shield/BIDS/sourcedata/custom_txt/sub-02/ses-baseline/recog_response_data_place_run1_P002_BASELINE.txt
+Processing pair for run 1 of sub-02...
+Using encoding file: /Volumes/T7_Shield/BIDS/sourcedata/custom_txt/sub-02/ses-baseline/encoding_response_data_pair_run1_P002_BASELINE.txt
+Using recognition file: /Volumes/T7_Shield/BIDS/sourcedata/custom_txt/sub-02/ses-baseline/recog_response_data_pair_run1_P002_BASELINE.txt
+Created combined TSV for run 1 of sub-02: /Volumes/T7_Shield/BIDS/BIDS_dataset/sub-02/ses-baseline/func/sub-02_ses-baseline_task-assoc_memory_run-01_events.tsv
+Processing face for run 2 of sub-02...
+Using encoding file: /Volumes/T7_Shield/BIDS/sourcedata/custom_txt/sub-02/ses-baseline/encoding_response_data_face_run2_P002_BASELINE.txt
+Using recognition file: /Volumes/T7_Shield/BIDS/sourcedata/custom_txt/sub-02/ses-baseline/recog_response_data_face_run2_P002_BASELINE.txt
+Processing place for run 2 of sub-02...
+Using encoding file: /Volumes/T7_Shield/BIDS/sourcedata/custom_txt/sub-02/ses-baseline/encoding_response_data_place_run2_P002_BASELINE.txt
+Using recognition file: /Volumes/T7_Shield/BIDS/sourcedata/custom_txt/sub-02/ses-baseline/recog_response_data_place_run2_P002_BASELINE.txt
+Processing pair for run 2 of sub-02...
+Using encoding file: /Volumes/T7_Shield/BIDS/sourcedata/custom_txt/sub-02/ses-baseline/encoding_response_data_pair_run2_P002_BASELINE.txt
+Using recognition file: /Volumes/T7_Shield/BIDS/sourcedata/custom_txt/sub-02/ses-baseline/recog_response_data_pair_run2_P002_BASELINE.txt
+Created combined TSV for run 2 of sub-02: /Volumes/T7_Shield/BIDS/BIDS_dataset/sub-02/ses-baseline/func/sub-02_ses-baseline_task-assoc_memory_run-02_events.tsv
+Processing face for run 3 of sub-02...
+Using encoding file: /Volumes/T7_Shield/BIDS/sourcedata/custom_txt/sub-02/ses-baseline/encoding_response_data_face_run3_P002_BASELINE.txt
+Using recognition file: /Volumes/T7_Shield/BIDS/sourcedata/custom_txt/sub-02/ses-baseline/recog_response_data_face_run3_P002_BASELINE.txt
+Processing place for run 3 of sub-02...
+Using encoding file: /Volumes/T7_Shield/BIDS/sourcedata/custom_txt/sub-02/ses-baseline/encoding_response_data_place_run3_P002_BASELINE.txt
+Using recognition file: /Volumes/T7_Shield/BIDS/sourcedata/custom_txt/sub-02/ses-baseline/recog_response_data_place_run3_P002_BASELINE.txt
+Processing pair for run 3 of sub-02...
+Using encoding file: /Volumes/T7_Shield/BIDS/sourcedata/custom_txt/sub-02/ses-baseline/encoding_response_data_pair_run3_P002_BASELINE.txt
+Using recognition file: /Volumes/T7_Shield/BIDS/sourcedata/custom_txt/sub-02/ses-baseline/recog_response_data_pair_run3_P002_BASELINE.txt
+Created combined TSV for run 3 of sub-02: /Volumes/T7_Shield/BIDS/BIDS_dataset/sub-02/ses-baseline/func/sub-02_ses-baseline_task-assoc_memory_run-03_events.tsv
+All specified TSV files created and moved to /Volumes/T7_Shield/BIDS/BIDS_dataset/sub-02/ses-baseline/func for sub-02

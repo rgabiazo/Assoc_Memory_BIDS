@@ -1,0 +1,4 @@
+Processing Subject: sub-02, Run: 03
+Input 4D Data: /Volumes/T7_Shield/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-02/ses-baseline/func/sub-02_corrected_task-assoc_memory_run-03_bold
+High Res File: /Volumes/T7_Shield/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-02/ses-baseline/anat/sub-02_T1w_brain
+Output Directory: /Volumes/T7_Shield/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Levelsub-02/ses-baseline/run-03

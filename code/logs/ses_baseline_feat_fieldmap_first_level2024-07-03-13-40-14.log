@@ -1,0 +1,42 @@
+Processing Subject: sub-02, Run: 01
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-02/ses-baseline/func/sub-02_corrected_task-assoc_memory_run-01_bold
+High Res File: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-02/ses-baseline/anat/sub-02_T1w_brain
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Levelsub-02/ses-baseline/run-01
+extra characters after close-quote
+    while executing
+"set feat_files(1) "/Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-02/ses-baseline/func/sub-02_corrected_task-as..."
+    (file "/Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-02/temp/sub-02_run-01_feat_fieldmap_1st_level_.fsf" line 276)
+    invoked from within
+"source ${filename}"
+    (procedure "feat5:load" line 27)
+    invoked from within
+"feat5:load -1 1 ${fsfroot}.fsf"
+    (file "/Users/nagamatsulab/fsl/bin/feat" line 309)
+Processing Subject: sub-02, Run: 02
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-02/ses-baseline/func/sub-02_corrected_task-assoc_memory_run-02_bold
+High Res File: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-02/ses-baseline/anat/sub-02_T1w_brain
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Levelsub-02/ses-baseline/run-02
+extra characters after close-quote
+    while executing
+"set feat_files(1) "/Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-02/ses-baseline/func/sub-02_corrected_task-as..."
+    (file "/Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-02/temp/sub-02_run-02_feat_fieldmap_1st_level_.fsf" line 276)
+    invoked from within
+"source ${filename}"
+    (procedure "feat5:load" line 27)
+    invoked from within
+"feat5:load -1 1 ${fsfroot}.fsf"
+    (file "/Users/nagamatsulab/fsl/bin/feat" line 309)
+Processing Subject: sub-02, Run: 03
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-02/ses-baseline/func/sub-02_corrected_task-assoc_memory_run-03_bold
+High Res File: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-02/ses-baseline/anat/sub-02_T1w_brain
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Levelsub-02/ses-baseline/run-03
+extra characters after close-quote
+    while executing
+"set feat_files(1) "/Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-02/ses-baseline/func/sub-02_corrected_task-as..."
+    (file "/Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-02/temp/sub-02_run-03_feat_fieldmap_1st_level_.fsf" line 276)
+    invoked from within
+"source ${filename}"
+    (procedure "feat5:load" line 27)
+    invoked from within
+"feat5:load -1 1 ${fsfroot}.fsf"
+    (file "/Users/nagamatsulab/fsl/bin/feat" line 309)

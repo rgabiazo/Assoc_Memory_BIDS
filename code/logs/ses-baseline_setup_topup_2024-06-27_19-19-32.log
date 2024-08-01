@@ -1,0 +1,187 @@
+Processing sub-02
+sub-02_task-assoc_memory_run-01_bold.nii.gz has been renamed to sub-02_ses-baseline_acq-AP_run-01.nii.gz
+sub-02_task-assoc_memory_run-01_bold.json has been renamed to sub-02_ses-baseline_acq-AP_run-01.json
+Extracting first volume from sub-02_ses-baseline_acq-AP_run-01.nii.gz
+sub-02_ses-baseline_acq-AP_run-01.json: [0 -1 0.0244851]
+sub-02_task-assoc_memory_run-02_bold.nii.gz has been renamed to sub-02_ses-baseline_acq-AP_run-02.nii.gz
+sub-02_task-assoc_memory_run-02_bold.json has been renamed to sub-02_ses-baseline_acq-AP_run-02.json
+Extracting first volume from sub-02_ses-baseline_acq-AP_run-02.nii.gz
+sub-02_ses-baseline_acq-AP_run-02.json: [0 -1 0.0244851]
+sub-02_task-assoc_memory_run-03_bold.nii.gz has been renamed to sub-02_ses-baseline_acq-AP_run-03.nii.gz
+sub-02_task-assoc_memory_run-03_bold.json has been renamed to sub-02_ses-baseline_acq-AP_run-03.json
+Extracting first volume from sub-02_ses-baseline_acq-AP_run-03.nii.gz
+sub-02_ses-baseline_acq-AP_run-03.json: [0 -1 0.0244851]
+sub-02_rfMRI_PA.json has been renamed to sub-02_ses-baseline_acq-PA_run-01.json
+sub-02_rfMRI_PA.nii.gz has been renamed to sub-02_ses-baseline_acq-PA_run-01.nii.gz
+Extracting first volume from sub-02_ses-baseline_acq-PA_run-01.nii.gz
+Merging AP and PA volumes for run-01: sub-02_AP_run-01.nii.gz and sub-02_PA_run-01.nii.gz
+Merged files into sub-02_AP_PA_run-01.nii.gz
+sub-02_ses-baseline_acq-PA_run-01.json: [0 1 0.0244851]
+sub-02_rfMRI_PA.json has been renamed to sub-02_ses-baseline_acq-PA_run-02.json
+sub-02_rfMRI_PA.nii.gz has been renamed to sub-02_ses-baseline_acq-PA_run-02.nii.gz
+Extracting first volume from sub-02_ses-baseline_acq-PA_run-02.nii.gz
+Merging AP and PA volumes for run-02: sub-02_AP_run-02.nii.gz and sub-02_PA_run-02.nii.gz
+Merged files into sub-02_AP_PA_run-02.nii.gz
+sub-02_ses-baseline_acq-PA_run-02.json: [0 1 0.0244851]
+sub-02_rfMRI_PA.json has been renamed to sub-02_ses-baseline_acq-PA_run-03.json
+sub-02_rfMRI_PA.nii.gz has been renamed to sub-02_ses-baseline_acq-PA_run-03.nii.gz
+Extracting first volume from sub-02_ses-baseline_acq-PA_run-03.nii.gz
+Merging AP and PA volumes for run-03: sub-02_AP_run-03.nii.gz and sub-02_PA_run-03.nii.gz
+Merged files into sub-02_AP_PA_run-03.nii.gz
+sub-02_ses-baseline_acq-PA_run-03.json: [0 1 0.0244851]
+Processing sub-03
+sub-03_task-assoc_memory_run-01_bold.nii.gz has been renamed to sub-03_ses-baseline_acq-AP_run-01.nii.gz
+sub-03_task-assoc_memory_run-01_bold.json has been renamed to sub-03_ses-baseline_acq-AP_run-01.json
+Extracting first volume from sub-03_ses-baseline_acq-AP_run-01.nii.gz
+sub-03_ses-baseline_acq-AP_run-01.json: [0 -1 0.0244851]
+sub-03_task-assoc_memory_run-02_bold.nii.gz has been renamed to sub-03_ses-baseline_acq-AP_run-02.nii.gz
+sub-03_task-assoc_memory_run-02_bold.json has been renamed to sub-03_ses-baseline_acq-AP_run-02.json
+Extracting first volume from sub-03_ses-baseline_acq-AP_run-02.nii.gz
+sub-03_ses-baseline_acq-AP_run-02.json: [0 -1 0.0244851]
+sub-03_task-assoc_memory_run-03_bold.nii.gz has been renamed to sub-03_ses-baseline_acq-AP_run-03.nii.gz
+sub-03_task-assoc_memory_run-03_bold.json has been renamed to sub-03_ses-baseline_acq-AP_run-03.json
+Extracting first volume from sub-03_ses-baseline_acq-AP_run-03.nii.gz
+sub-03_ses-baseline_acq-AP_run-03.json: [0 -1 0.0244851]
+sub-03_rfMRI_PA.json has been renamed to sub-03_ses-baseline_acq-PA_run-01.json
+sub-03_rfMRI_PA.nii.gz has been renamed to sub-03_ses-baseline_acq-PA_run-01.nii.gz
+Extracting first volume from sub-03_ses-baseline_acq-PA_run-01.nii.gz
+Merging AP and PA volumes for run-01: sub-03_AP_run-01.nii.gz and sub-03_PA_run-01.nii.gz
+Merged files into sub-03_AP_PA_run-01.nii.gz
+sub-03_ses-baseline_acq-PA_run-01.json: [0 1 0.0244851]
+sub-03_rfMRI_PA.json has been renamed to sub-03_ses-baseline_acq-PA_run-02.json
+sub-03_rfMRI_PA.nii.gz has been renamed to sub-03_ses-baseline_acq-PA_run-02.nii.gz
+Extracting first volume from sub-03_ses-baseline_acq-PA_run-02.nii.gz
+Merging AP and PA volumes for run-02: sub-03_AP_run-02.nii.gz and sub-03_PA_run-02.nii.gz
+Merged files into sub-03_AP_PA_run-02.nii.gz
+sub-03_ses-baseline_acq-PA_run-02.json: [0 1 0.0244851]
+sub-03_rfMRI_PA.json has been renamed to sub-03_ses-baseline_acq-PA_run-03.json
+sub-03_rfMRI_PA.nii.gz has been renamed to sub-03_ses-baseline_acq-PA_run-03.nii.gz
+Extracting first volume from sub-03_ses-baseline_acq-PA_run-03.nii.gz
+Merging AP and PA volumes for run-03: sub-03_AP_run-03.nii.gz and sub-03_PA_run-03.nii.gz
+Merged files into sub-03_AP_PA_run-03.nii.gz
+sub-03_ses-baseline_acq-PA_run-03.json: [0 1 0.0244851]
+Processing sub-04
+sub-04_task-assoc_memory_run-01_bold.nii.gz has been renamed to sub-04_ses-baseline_acq-AP_run-01.nii.gz
+sub-04_task-assoc_memory_run-01_bold.json has been renamed to sub-04_ses-baseline_acq-AP_run-01.json
+Extracting first volume from sub-04_ses-baseline_acq-AP_run-01.nii.gz
+sub-04_ses-baseline_acq-AP_run-01.json: [0 -1 0.0244851]
+sub-04_task-assoc_memory_run-02_bold.nii.gz has been renamed to sub-04_ses-baseline_acq-AP_run-02.nii.gz
+sub-04_task-assoc_memory_run-02_bold.json has been renamed to sub-04_ses-baseline_acq-AP_run-02.json
+Extracting first volume from sub-04_ses-baseline_acq-AP_run-02.nii.gz
+sub-04_ses-baseline_acq-AP_run-02.json: [0 -1 0.0244851]
+sub-04_task-assoc_memory_run-03_bold.nii.gz has been renamed to sub-04_ses-baseline_acq-AP_run-03.nii.gz
+sub-04_task-assoc_memory_run-03_bold.json has been renamed to sub-04_ses-baseline_acq-AP_run-03.json
+Extracting first volume from sub-04_ses-baseline_acq-AP_run-03.nii.gz
+sub-04_ses-baseline_acq-AP_run-03.json: [0 -1 0.0244851]
+sub-04_rfMRI_PA.json has been renamed to sub-04_ses-baseline_acq-PA_run-01.json
+sub-04_rfMRI_PA.nii.gz has been renamed to sub-04_ses-baseline_acq-PA_run-01.nii.gz
+Extracting first volume from sub-04_ses-baseline_acq-PA_run-01.nii.gz
+Merging AP and PA volumes for run-01: sub-04_AP_run-01.nii.gz and sub-04_PA_run-01.nii.gz
+Merged files into sub-04_AP_PA_run-01.nii.gz
+sub-04_ses-baseline_acq-PA_run-01.json: [0 1 0.0244851]
+sub-04_rfMRI_PA.json has been renamed to sub-04_ses-baseline_acq-PA_run-02.json
+sub-04_rfMRI_PA.nii.gz has been renamed to sub-04_ses-baseline_acq-PA_run-02.nii.gz
+Extracting first volume from sub-04_ses-baseline_acq-PA_run-02.nii.gz
+Merging AP and PA volumes for run-02: sub-04_AP_run-02.nii.gz and sub-04_PA_run-02.nii.gz
+Merged files into sub-04_AP_PA_run-02.nii.gz
+sub-04_ses-baseline_acq-PA_run-02.json: [0 1 0.0244851]
+sub-04_rfMRI_PA.json has been renamed to sub-04_ses-baseline_acq-PA_run-03.json
+sub-04_rfMRI_PA.nii.gz has been renamed to sub-04_ses-baseline_acq-PA_run-03.nii.gz
+Extracting first volume from sub-04_ses-baseline_acq-PA_run-03.nii.gz
+Merging AP and PA volumes for run-03: sub-04_AP_run-03.nii.gz and sub-04_PA_run-03.nii.gz
+Merged files into sub-04_AP_PA_run-03.nii.gz
+sub-04_ses-baseline_acq-PA_run-03.json: [0 1 0.0244851]
+Processing sub-05
+sub-05_task-assoc_memory_run-01_bold.nii.gz has been renamed to sub-05_ses-baseline_acq-AP_run-01.nii.gz
+sub-05_task-assoc_memory_run-01_bold.json has been renamed to sub-05_ses-baseline_acq-AP_run-01.json
+Extracting first volume from sub-05_ses-baseline_acq-AP_run-01.nii.gz
+sub-05_ses-baseline_acq-AP_run-01.json: [0 -1 0.0244851]
+sub-05_task-assoc_memory_run-02_bold.nii.gz has been renamed to sub-05_ses-baseline_acq-AP_run-02.nii.gz
+sub-05_task-assoc_memory_run-02_bold.json has been renamed to sub-05_ses-baseline_acq-AP_run-02.json
+Extracting first volume from sub-05_ses-baseline_acq-AP_run-02.nii.gz
+sub-05_ses-baseline_acq-AP_run-02.json: [0 -1 0.0244851]
+sub-05_task-assoc_memory_run-03_bold.nii.gz has been renamed to sub-05_ses-baseline_acq-AP_run-03.nii.gz
+sub-05_task-assoc_memory_run-03_bold.json has been renamed to sub-05_ses-baseline_acq-AP_run-03.json
+Extracting first volume from sub-05_ses-baseline_acq-AP_run-03.nii.gz
+sub-05_ses-baseline_acq-AP_run-03.json: [0 -1 0.0244851]
+sub-05_rfMRI_PA.json has been renamed to sub-05_ses-baseline_acq-PA_run-01.json
+sub-05_rfMRI_PA.nii.gz has been renamed to sub-05_ses-baseline_acq-PA_run-01.nii.gz
+Extracting first volume from sub-05_ses-baseline_acq-PA_run-01.nii.gz
+Merging AP and PA volumes for run-01: sub-05_AP_run-01.nii.gz and sub-05_PA_run-01.nii.gz
+Merged files into sub-05_AP_PA_run-01.nii.gz
+sub-05_ses-baseline_acq-PA_run-01.json: [0 1 0.0244851]
+sub-05_rfMRI_PA.json has been renamed to sub-05_ses-baseline_acq-PA_run-02.json
+sub-05_rfMRI_PA.nii.gz has been renamed to sub-05_ses-baseline_acq-PA_run-02.nii.gz
+Extracting first volume from sub-05_ses-baseline_acq-PA_run-02.nii.gz
+Merging AP and PA volumes for run-02: sub-05_AP_run-02.nii.gz and sub-05_PA_run-02.nii.gz
+Merged files into sub-05_AP_PA_run-02.nii.gz
+sub-05_ses-baseline_acq-PA_run-02.json: [0 1 0.0244851]
+sub-05_rfMRI_PA.json has been renamed to sub-05_ses-baseline_acq-PA_run-03.json
+sub-05_rfMRI_PA.nii.gz has been renamed to sub-05_ses-baseline_acq-PA_run-03.nii.gz
+Extracting first volume from sub-05_ses-baseline_acq-PA_run-03.nii.gz
+Merging AP and PA volumes for run-03: sub-05_AP_run-03.nii.gz and sub-05_PA_run-03.nii.gz
+Merged files into sub-05_AP_PA_run-03.nii.gz
+sub-05_ses-baseline_acq-PA_run-03.json: [0 1 0.0244851]
+Processing sub-06
+sub-06_task-assoc_memory_run-01_bold.nii.gz has been renamed to sub-06_ses-baseline_acq-AP_run-01.nii.gz
+sub-06_task-assoc_memory_run-01_bold.json has been renamed to sub-06_ses-baseline_acq-AP_run-01.json
+Extracting first volume from sub-06_ses-baseline_acq-AP_run-01.nii.gz
+sub-06_ses-baseline_acq-AP_run-01.json: [0 -1 0.0244851]
+sub-06_task-assoc_memory_run-02_bold.nii.gz has been renamed to sub-06_ses-baseline_acq-AP_run-02.nii.gz
+sub-06_task-assoc_memory_run-02_bold.json has been renamed to sub-06_ses-baseline_acq-AP_run-02.json
+Extracting first volume from sub-06_ses-baseline_acq-AP_run-02.nii.gz
+sub-06_ses-baseline_acq-AP_run-02.json: [0 -1 0.0244851]
+sub-06_task-assoc_memory_run-03_bold.nii.gz has been renamed to sub-06_ses-baseline_acq-AP_run-03.nii.gz
+sub-06_task-assoc_memory_run-03_bold.json has been renamed to sub-06_ses-baseline_acq-AP_run-03.json
+Extracting first volume from sub-06_ses-baseline_acq-AP_run-03.nii.gz
+sub-06_ses-baseline_acq-AP_run-03.json: [0 -1 0.0244851]
+sub-06_rfMRI_PA.json has been renamed to sub-06_ses-baseline_acq-PA_run-01.json
+sub-06_rfMRI_PA.nii.gz has been renamed to sub-06_ses-baseline_acq-PA_run-01.nii.gz
+Extracting first volume from sub-06_ses-baseline_acq-PA_run-01.nii.gz
+Merging AP and PA volumes for run-01: sub-06_AP_run-01.nii.gz and sub-06_PA_run-01.nii.gz
+Merged files into sub-06_AP_PA_run-01.nii.gz
+sub-06_ses-baseline_acq-PA_run-01.json: [0 1 0.0244851]
+sub-06_rfMRI_PA.json has been renamed to sub-06_ses-baseline_acq-PA_run-02.json
+sub-06_rfMRI_PA.nii.gz has been renamed to sub-06_ses-baseline_acq-PA_run-02.nii.gz
+Extracting first volume from sub-06_ses-baseline_acq-PA_run-02.nii.gz
+Merging AP and PA volumes for run-02: sub-06_AP_run-02.nii.gz and sub-06_PA_run-02.nii.gz
+Merged files into sub-06_AP_PA_run-02.nii.gz
+sub-06_ses-baseline_acq-PA_run-02.json: [0 1 0.0244851]
+sub-06_rfMRI_PA.json has been renamed to sub-06_ses-baseline_acq-PA_run-03.json
+sub-06_rfMRI_PA.nii.gz has been renamed to sub-06_ses-baseline_acq-PA_run-03.nii.gz
+Extracting first volume from sub-06_ses-baseline_acq-PA_run-03.nii.gz
+Merging AP and PA volumes for run-03: sub-06_AP_run-03.nii.gz and sub-06_PA_run-03.nii.gz
+Merged files into sub-06_AP_PA_run-03.nii.gz
+sub-06_ses-baseline_acq-PA_run-03.json: [0 1 0.0244851]
+Processing sub-07
+sub-07_task-assoc_memory_run-01_bold.nii.gz has been renamed to sub-07_ses-baseline_acq-AP_run-01.nii.gz
+sub-07_task-assoc_memory_run-01_bold.json has been renamed to sub-07_ses-baseline_acq-AP_run-01.json
+Extracting first volume from sub-07_ses-baseline_acq-AP_run-01.nii.gz
+sub-07_ses-baseline_acq-AP_run-01.json: [0 -1 0.0244851]
+sub-07_task-assoc_memory_run-02_bold.nii.gz has been renamed to sub-07_ses-baseline_acq-AP_run-02.nii.gz
+sub-07_task-assoc_memory_run-02_bold.json has been renamed to sub-07_ses-baseline_acq-AP_run-02.json
+Extracting first volume from sub-07_ses-baseline_acq-AP_run-02.nii.gz
+sub-07_ses-baseline_acq-AP_run-02.json: [0 -1 0.0244851]
+sub-07_task-assoc_memory_run-03_bold.nii.gz has been renamed to sub-07_ses-baseline_acq-AP_run-03.nii.gz
+sub-07_task-assoc_memory_run-03_bold.json has been renamed to sub-07_ses-baseline_acq-AP_run-03.json
+Extracting first volume from sub-07_ses-baseline_acq-AP_run-03.nii.gz
+sub-07_ses-baseline_acq-AP_run-03.json: [0 -1 0.0244851]
+sub-07_rfMRI_PA.json has been renamed to sub-07_ses-baseline_acq-PA_run-01.json
+sub-07_rfMRI_PA.nii.gz has been renamed to sub-07_ses-baseline_acq-PA_run-01.nii.gz
+Extracting first volume from sub-07_ses-baseline_acq-PA_run-01.nii.gz
+Merging AP and PA volumes for run-01: sub-07_AP_run-01.nii.gz and sub-07_PA_run-01.nii.gz
+Merged files into sub-07_AP_PA_run-01.nii.gz
+sub-07_ses-baseline_acq-PA_run-01.json: [0 1 0.0244851]
+sub-07_rfMRI_PA.json has been renamed to sub-07_ses-baseline_acq-PA_run-02.json
+sub-07_rfMRI_PA.nii.gz has been renamed to sub-07_ses-baseline_acq-PA_run-02.nii.gz
+Extracting first volume from sub-07_ses-baseline_acq-PA_run-02.nii.gz
+Merging AP and PA volumes for run-02: sub-07_AP_run-02.nii.gz and sub-07_PA_run-02.nii.gz
+Merged files into sub-07_AP_PA_run-02.nii.gz
+sub-07_ses-baseline_acq-PA_run-02.json: [0 1 0.0244851]
+sub-07_rfMRI_PA.json has been renamed to sub-07_ses-baseline_acq-PA_run-03.json
+sub-07_rfMRI_PA.nii.gz has been renamed to sub-07_ses-baseline_acq-PA_run-03.nii.gz
+Extracting first volume from sub-07_ses-baseline_acq-PA_run-03.nii.gz
+Merging AP and PA volumes for run-03: sub-07_AP_run-03.nii.gz and sub-07_PA_run-03.nii.gz
+Merged files into sub-07_AP_PA_run-03.nii.gz
+sub-07_ses-baseline_acq-PA_run-03.json: [0 1 0.0244851]
+Setup for topup completed for all subjects.

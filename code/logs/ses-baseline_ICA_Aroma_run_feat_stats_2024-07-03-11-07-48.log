@@ -1,0 +1,80 @@
+Processing Subject: sub-15, Run: 01
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-15/aroma/ses-baseline/ICA_AROMA_run-01/denoised_func_data_nonaggr
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-15/feat_stats/ses-baseline/denoised_task-assoc_memory_run-01
+child process exited abnormally
+    while executing
+"fsl:exec "${FSLDIR}/bin/feat_model design" $fmri(featModelOpts) -N feat0_model -l logs "
+    (procedure "firstLevelMaster" line 43)
+    invoked from within
+"firstLevelMaster $session"
+    invoked from within
+"if { $done_something == 0 } {
+
+    if { ! $fmri(inmelodic) } {
+       if { $fmri(level) == 1 } {
+	      for { set session 1 } { $session <= $fmri(mult..."
+    (file "/Users/nagamatsulab/fsl/bin/feat" line 390)
+Processing Subject: sub-15, Run: 02
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-15/aroma/ses-baseline/ICA_AROMA_run-02/denoised_func_data_nonaggr
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-15/feat_stats/ses-baseline/denoised_task-assoc_memory_run-02
+Processing Subject: sub-15, Run: 03
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-15/aroma/ses-baseline/ICA_AROMA_run-03/denoised_func_data_nonaggr
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-15/feat_stats/ses-baseline/denoised_task-assoc_memory_run-03
+Processing Subject: sub-16, Run: 01
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-16/aroma/ses-baseline/ICA_AROMA_run-01/denoised_func_data_nonaggr
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-16/feat_stats/ses-baseline/denoised_task-assoc_memory_run-01
+Processing Subject: sub-16, Run: 02
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-16/aroma/ses-baseline/ICA_AROMA_run-02/denoised_func_data_nonaggr
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-16/feat_stats/ses-baseline/denoised_task-assoc_memory_run-02
+Processing Subject: sub-16, Run: 03
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-16/aroma/ses-baseline/ICA_AROMA_run-03/denoised_func_data_nonaggr
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-16/feat_stats/ses-baseline/denoised_task-assoc_memory_run-03
+Processing Subject: sub-17, Run: 01
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-17/aroma/ses-baseline/ICA_AROMA_run-01/denoised_func_data_nonaggr
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-17/feat_stats/ses-baseline/denoised_task-assoc_memory_run-01
+Processing Subject: sub-17, Run: 02
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-17/aroma/ses-baseline/ICA_AROMA_run-02/denoised_func_data_nonaggr
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-17/feat_stats/ses-baseline/denoised_task-assoc_memory_run-02
+Processing Subject: sub-17, Run: 03
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-17/aroma/ses-baseline/ICA_AROMA_run-03/denoised_func_data_nonaggr
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-17/feat_stats/ses-baseline/denoised_task-assoc_memory_run-03
+Processing Subject: sub-18, Run: 01
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-18/aroma/ses-baseline/ICA_AROMA_run-01/denoised_func_data_nonaggr
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-18/feat_stats/ses-baseline/denoised_task-assoc_memory_run-01
+Processing Subject: sub-18, Run: 02
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-18/aroma/ses-baseline/ICA_AROMA_run-02/denoised_func_data_nonaggr
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-18/feat_stats/ses-baseline/denoised_task-assoc_memory_run-02
+Processing Subject: sub-18, Run: 03
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-18/aroma/ses-baseline/ICA_AROMA_run-03/denoised_func_data_nonaggr
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-18/feat_stats/ses-baseline/denoised_task-assoc_memory_run-03
+Processing Subject: sub-19, Run: 01
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-19/aroma/ses-baseline/ICA_AROMA_run-01/denoised_func_data_nonaggr
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-19/feat_stats/ses-baseline/denoised_task-assoc_memory_run-01
+child process exited abnormally
+    while executing
+"fsl:exec "${FSLDIR}/bin/feat_model design" $fmri(featModelOpts) -N feat0_model -l logs "
+    (procedure "firstLevelMaster" line 43)
+    invoked from within
+"firstLevelMaster $session"
+    invoked from within
+"if { $done_something == 0 } {
+
+    if { ! $fmri(inmelodic) } {
+       if { $fmri(level) == 1 } {
+	      for { set session 1 } { $session <= $fmri(mult..."
+    (file "/Users/nagamatsulab/fsl/bin/feat" line 390)
+Processing Subject: sub-19, Run: 02
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-19/aroma/ses-baseline/ICA_AROMA_run-02/denoised_func_data_nonaggr
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-19/feat_stats/ses-baseline/denoised_task-assoc_memory_run-02
+Processing Subject: sub-19, Run: 03
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-19/aroma/ses-baseline/ICA_AROMA_run-03/denoised_func_data_nonaggr
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-19/feat_stats/ses-baseline/denoised_task-assoc_memory_run-03
+Processing Subject: sub-20, Run: 01
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-20/aroma/ses-baseline/ICA_AROMA_run-01/denoised_func_data_nonaggr
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-20/feat_stats/ses-baseline/denoised_task-assoc_memory_run-01
+Processing Subject: sub-20, Run: 02
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-20/aroma/ses-baseline/ICA_AROMA_run-02/denoised_func_data_nonaggr
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-20/feat_stats/ses-baseline/denoised_task-assoc_memory_run-02
+Processing Subject: sub-20, Run: 03
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-20/aroma/ses-baseline/ICA_AROMA_run-03/denoised_func_data_nonaggr
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-20/feat_stats/ses-baseline/denoised_task-assoc_memory_run-03

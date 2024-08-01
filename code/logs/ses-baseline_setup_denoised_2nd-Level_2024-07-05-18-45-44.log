@@ -1,0 +1,44 @@
+Starting script...
+Processing subject: sub-21
+Processing run: 01
+Successfully copied reg folder from /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-21/feat_preproc/ses-baseline/sub-21_corrected_task-assoc_memory_run-01_preproc.feat/reg to /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-21/feat_stats/ses-baseline/denoised_task-assoc_memory_run-01.feat
+Processing run: 02
+Successfully copied reg folder from /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-21/feat_preproc/ses-baseline/sub-21_corrected_task-assoc_memory_run-02_preproc.feat/reg to /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-21/feat_stats/ses-baseline/denoised_task-assoc_memory_run-02.feat
+Processing run: 03
+Successfully copied reg folder from /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-21/feat_preproc/ses-baseline/sub-21_corrected_task-assoc_memory_run-03_preproc.feat/reg to /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-21/feat_stats/ses-baseline/denoised_task-assoc_memory_run-03.feat
+Processing subject: sub-22
+Processing run: 01
+Successfully copied reg folder from /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-22/feat_preproc/ses-baseline/sub-22_corrected_task-assoc_memory_run-01_preproc.feat/reg to /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-22/feat_stats/ses-baseline/denoised_task-assoc_memory_run-01.feat
+Processing run: 02
+Successfully copied reg folder from /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-22/feat_preproc/ses-baseline/sub-22_corrected_task-assoc_memory_run-02_preproc.feat/reg to /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-22/feat_stats/ses-baseline/denoised_task-assoc_memory_run-02.feat
+Processing run: 03
+Successfully copied reg folder from /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-22/feat_preproc/ses-baseline/sub-22_corrected_task-assoc_memory_run-03_preproc.feat/reg to /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-22/feat_stats/ses-baseline/denoised_task-assoc_memory_run-03.feat
+Processing subject: sub-23
+Processing run: 01
+Successfully copied reg folder from /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-23/feat_preproc/ses-baseline/sub-23_corrected_task-assoc_memory_run-01_preproc.feat/reg to /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-23/feat_stats/ses-baseline/denoised_task-assoc_memory_run-01.feat
+Processing run: 02
+Successfully copied reg folder from /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-23/feat_preproc/ses-baseline/sub-23_corrected_task-assoc_memory_run-02_preproc.feat/reg to /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-23/feat_stats/ses-baseline/denoised_task-assoc_memory_run-02.feat
+Processing run: 03
+Successfully copied reg folder from /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-23/feat_preproc/ses-baseline/sub-23_corrected_task-assoc_memory_run-03_preproc.feat/reg to /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-23/feat_stats/ses-baseline/denoised_task-assoc_memory_run-03.feat
+Processing subject: sub-24
+Processing run: 01
+Successfully copied reg folder from /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-24/feat_preproc/ses-baseline/sub-24_corrected_task-assoc_memory_run-01_preproc.feat/reg to /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-24/feat_stats/ses-baseline/denoised_task-assoc_memory_run-01.feat
+Processing run: 02
+Successfully copied reg folder from /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-24/feat_preproc/ses-baseline/sub-24_corrected_task-assoc_memory_run-02_preproc.feat/reg to /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-24/feat_stats/ses-baseline/denoised_task-assoc_memory_run-02.feat
+Processing run: 03
+Successfully copied reg folder from /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-24/feat_preproc/ses-baseline/sub-24_corrected_task-assoc_memory_run-03_preproc.feat/reg to /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-24/feat_stats/ses-baseline/denoised_task-assoc_memory_run-03.feat
+Processing subject: sub-25
+Processing run: 01
+Successfully copied reg folder from /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-25/feat_preproc/ses-baseline/sub-25_corrected_task-assoc_memory_run-01_preproc.feat/reg to /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-25/feat_stats/ses-baseline/denoised_task-assoc_memory_run-01.feat
+Processing run: 02
+Successfully copied reg folder from /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-25/feat_preproc/ses-baseline/sub-25_corrected_task-assoc_memory_run-02_preproc.feat/reg to /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-25/feat_stats/ses-baseline/denoised_task-assoc_memory_run-02.feat
+Processing run: 03
+Successfully copied reg folder from /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-25/feat_preproc/ses-baseline/sub-25_corrected_task-assoc_memory_run-03_preproc.feat/reg to /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-25/feat_stats/ses-baseline/denoised_task-assoc_memory_run-03.feat
+Processing subject: sub-26
+Processing run: 01
+Successfully copied reg folder from /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-26/feat_preproc/ses-baseline/sub-26_corrected_task-assoc_memory_run-01_preproc.feat/reg to /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-26/feat_stats/ses-baseline/denoised_task-assoc_memory_run-01.feat
+Processing run: 02
+Successfully copied reg folder from /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-26/feat_preproc/ses-baseline/sub-26_corrected_task-assoc_memory_run-02_preproc.feat/reg to /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-26/feat_stats/ses-baseline/denoised_task-assoc_memory_run-02.feat
+Processing run: 03
+Successfully copied reg folder from /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-26/feat_preproc/ses-baseline/sub-26_corrected_task-assoc_memory_run-03_preproc.feat/reg to /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-26/feat_stats/ses-baseline/denoised_task-assoc_memory_run-03.feat
+Script execution completed.

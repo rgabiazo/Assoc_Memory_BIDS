@@ -1,0 +1,216 @@
+Processing subject sub-08, run 01
+Output directory created at: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-08/ses-baseline/run-01/func/topup_results_run_01
+Running topup with:
+  Input AP/PA file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-08/ses-baseline/run-01/func/sub-08_AP_PA_run-01.nii.gz
+  Acquisition parameters file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-08/ses-baseline/run-01/func/sub-08_acq_param_run-01.txt
+  Output Topup file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-08/ses-baseline/run-01/func/topup_results_run_01/topup_results
+Topup completed. Corrected output: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-08/ses-baseline/run-01/func/topup_results_run_01/corrected_AP_PA_run01.nii.gz
+Running applytopup with:
+  Input functional file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-08/ses-baseline/run-01/func/sub-08_ses-baseline_acq-AP_run-01.nii.gz
+  Topup results file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-08/ses-baseline/run-01/func/topup_results_run_01/topup_results
+  Output corrected functional file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-08/ses-baseline/run-01/func/topup_results_run_01/sub-08_corrected_task-assoc_memory_run-01_bold.nii.gz
+Applytopup completed. Corrected file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-08/ses-baseline/run-01/func/topup_results_run_01/sub-08_corrected_task-assoc_memory_run-01_bold.nii.gz
+Processing subject sub-08, run 02
+Output directory created at: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-08/ses-baseline/run-02/func/topup_results_run_02
+Running topup with:
+  Input AP/PA file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-08/ses-baseline/run-02/func/sub-08_AP_PA_run-02.nii.gz
+  Acquisition parameters file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-08/ses-baseline/run-02/func/sub-08_acq_param_run-02.txt
+  Output Topup file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-08/ses-baseline/run-02/func/topup_results_run_02/topup_results
+Topup completed. Corrected output: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-08/ses-baseline/run-02/func/topup_results_run_02/corrected_AP_PA_run02.nii.gz
+Running applytopup with:
+  Input functional file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-08/ses-baseline/run-02/func/sub-08_ses-baseline_acq-AP_run-02.nii.gz
+  Topup results file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-08/ses-baseline/run-02/func/topup_results_run_02/topup_results
+  Output corrected functional file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-08/ses-baseline/run-02/func/topup_results_run_02/sub-08_corrected_task-assoc_memory_run-02_bold.nii.gz
+Applytopup completed. Corrected file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-08/ses-baseline/run-02/func/topup_results_run_02/sub-08_corrected_task-assoc_memory_run-02_bold.nii.gz
+Processing subject sub-08, run 03
+Output directory created at: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-08/ses-baseline/run-03/func/topup_results_run_03
+Running topup with:
+  Input AP/PA file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-08/ses-baseline/run-03/func/sub-08_AP_PA_run-03.nii.gz
+  Acquisition parameters file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-08/ses-baseline/run-03/func/sub-08_acq_param_run-03.txt
+  Output Topup file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-08/ses-baseline/run-03/func/topup_results_run_03/topup_results
+Topup completed. Corrected output: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-08/ses-baseline/run-03/func/topup_results_run_03/corrected_AP_PA_run03.nii.gz
+Running applytopup with:
+  Input functional file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-08/ses-baseline/run-03/func/sub-08_ses-baseline_acq-AP_run-03.nii.gz
+  Topup results file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-08/ses-baseline/run-03/func/topup_results_run_03/topup_results
+  Output corrected functional file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-08/ses-baseline/run-03/func/topup_results_run_03/sub-08_corrected_task-assoc_memory_run-03_bold.nii.gz
+Applytopup completed. Corrected file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-08/ses-baseline/run-03/func/topup_results_run_03/sub-08_corrected_task-assoc_memory_run-03_bold.nii.gz
+Processing subject sub-09, run 01
+Output directory created at: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-09/ses-baseline/run-01/func/topup_results_run_01
+Running topup with:
+  Input AP/PA file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-09/ses-baseline/run-01/func/sub-09_AP_PA_run-01.nii.gz
+  Acquisition parameters file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-09/ses-baseline/run-01/func/sub-09_acq_param_run-01.txt
+  Output Topup file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-09/ses-baseline/run-01/func/topup_results_run_01/topup_results
+Topup completed. Corrected output: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-09/ses-baseline/run-01/func/topup_results_run_01/corrected_AP_PA_run01.nii.gz
+Running applytopup with:
+  Input functional file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-09/ses-baseline/run-01/func/sub-09_ses-baseline_acq-AP_run-01.nii.gz
+  Topup results file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-09/ses-baseline/run-01/func/topup_results_run_01/topup_results
+  Output corrected functional file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-09/ses-baseline/run-01/func/topup_results_run_01/sub-09_corrected_task-assoc_memory_run-01_bold.nii.gz
+Applytopup completed. Corrected file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-09/ses-baseline/run-01/func/topup_results_run_01/sub-09_corrected_task-assoc_memory_run-01_bold.nii.gz
+Processing subject sub-09, run 02
+Output directory created at: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-09/ses-baseline/run-02/func/topup_results_run_02
+Running topup with:
+  Input AP/PA file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-09/ses-baseline/run-02/func/sub-09_AP_PA_run-02.nii.gz
+  Acquisition parameters file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-09/ses-baseline/run-02/func/sub-09_acq_param_run-02.txt
+  Output Topup file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-09/ses-baseline/run-02/func/topup_results_run_02/topup_results
+Topup completed. Corrected output: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-09/ses-baseline/run-02/func/topup_results_run_02/corrected_AP_PA_run02.nii.gz
+Running applytopup with:
+  Input functional file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-09/ses-baseline/run-02/func/sub-09_ses-baseline_acq-AP_run-02.nii.gz
+  Topup results file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-09/ses-baseline/run-02/func/topup_results_run_02/topup_results
+  Output corrected functional file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-09/ses-baseline/run-02/func/topup_results_run_02/sub-09_corrected_task-assoc_memory_run-02_bold.nii.gz
+Applytopup completed. Corrected file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-09/ses-baseline/run-02/func/topup_results_run_02/sub-09_corrected_task-assoc_memory_run-02_bold.nii.gz
+Processing subject sub-09, run 03
+Output directory created at: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-09/ses-baseline/run-03/func/topup_results_run_03
+Running topup with:
+  Input AP/PA file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-09/ses-baseline/run-03/func/sub-09_AP_PA_run-03.nii.gz
+  Acquisition parameters file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-09/ses-baseline/run-03/func/sub-09_acq_param_run-03.txt
+  Output Topup file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-09/ses-baseline/run-03/func/topup_results_run_03/topup_results
+Topup completed. Corrected output: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-09/ses-baseline/run-03/func/topup_results_run_03/corrected_AP_PA_run03.nii.gz
+Running applytopup with:
+  Input functional file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-09/ses-baseline/run-03/func/sub-09_ses-baseline_acq-AP_run-03.nii.gz
+  Topup results file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-09/ses-baseline/run-03/func/topup_results_run_03/topup_results
+  Output corrected functional file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-09/ses-baseline/run-03/func/topup_results_run_03/sub-09_corrected_task-assoc_memory_run-03_bold.nii.gz
+Applytopup completed. Corrected file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-09/ses-baseline/run-03/func/topup_results_run_03/sub-09_corrected_task-assoc_memory_run-03_bold.nii.gz
+Processing subject sub-10, run 01
+Output directory created at: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-10/ses-baseline/run-01/func/topup_results_run_01
+Running topup with:
+  Input AP/PA file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-10/ses-baseline/run-01/func/sub-10_AP_PA_run-01.nii.gz
+  Acquisition parameters file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-10/ses-baseline/run-01/func/sub-10_acq_param_run-01.txt
+  Output Topup file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-10/ses-baseline/run-01/func/topup_results_run_01/topup_results
+Topup completed. Corrected output: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-10/ses-baseline/run-01/func/topup_results_run_01/corrected_AP_PA_run01.nii.gz
+Running applytopup with:
+  Input functional file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-10/ses-baseline/run-01/func/sub-10_ses-baseline_acq-AP_run-01.nii.gz
+  Topup results file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-10/ses-baseline/run-01/func/topup_results_run_01/topup_results
+  Output corrected functional file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-10/ses-baseline/run-01/func/topup_results_run_01/sub-10_corrected_task-assoc_memory_run-01_bold.nii.gz
+Applytopup completed. Corrected file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-10/ses-baseline/run-01/func/topup_results_run_01/sub-10_corrected_task-assoc_memory_run-01_bold.nii.gz
+Processing subject sub-10, run 02
+Output directory created at: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-10/ses-baseline/run-02/func/topup_results_run_02
+Running topup with:
+  Input AP/PA file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-10/ses-baseline/run-02/func/sub-10_AP_PA_run-02.nii.gz
+  Acquisition parameters file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-10/ses-baseline/run-02/func/sub-10_acq_param_run-02.txt
+  Output Topup file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-10/ses-baseline/run-02/func/topup_results_run_02/topup_results
+Topup completed. Corrected output: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-10/ses-baseline/run-02/func/topup_results_run_02/corrected_AP_PA_run02.nii.gz
+Running applytopup with:
+  Input functional file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-10/ses-baseline/run-02/func/sub-10_ses-baseline_acq-AP_run-02.nii.gz
+  Topup results file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-10/ses-baseline/run-02/func/topup_results_run_02/topup_results
+  Output corrected functional file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-10/ses-baseline/run-02/func/topup_results_run_02/sub-10_corrected_task-assoc_memory_run-02_bold.nii.gz
+Applytopup completed. Corrected file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-10/ses-baseline/run-02/func/topup_results_run_02/sub-10_corrected_task-assoc_memory_run-02_bold.nii.gz
+Processing subject sub-10, run 03
+Output directory created at: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-10/ses-baseline/run-03/func/topup_results_run_03
+Running topup with:
+  Input AP/PA file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-10/ses-baseline/run-03/func/sub-10_AP_PA_run-03.nii.gz
+  Acquisition parameters file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-10/ses-baseline/run-03/func/sub-10_acq_param_run-03.txt
+  Output Topup file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-10/ses-baseline/run-03/func/topup_results_run_03/topup_results
+Topup completed. Corrected output: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-10/ses-baseline/run-03/func/topup_results_run_03/corrected_AP_PA_run03.nii.gz
+Running applytopup with:
+  Input functional file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-10/ses-baseline/run-03/func/sub-10_ses-baseline_acq-AP_run-03.nii.gz
+  Topup results file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-10/ses-baseline/run-03/func/topup_results_run_03/topup_results
+  Output corrected functional file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-10/ses-baseline/run-03/func/topup_results_run_03/sub-10_corrected_task-assoc_memory_run-03_bold.nii.gz
+Applytopup completed. Corrected file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-10/ses-baseline/run-03/func/topup_results_run_03/sub-10_corrected_task-assoc_memory_run-03_bold.nii.gz
+Processing subject sub-11, run 01
+Output directory created at: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-11/ses-baseline/run-01/func/topup_results_run_01
+Running topup with:
+  Input AP/PA file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-11/ses-baseline/run-01/func/sub-11_AP_PA_run-01.nii.gz
+  Acquisition parameters file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-11/ses-baseline/run-01/func/sub-11_acq_param_run-01.txt
+  Output Topup file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-11/ses-baseline/run-01/func/topup_results_run_01/topup_results
+Topup completed. Corrected output: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-11/ses-baseline/run-01/func/topup_results_run_01/corrected_AP_PA_run01.nii.gz
+Running applytopup with:
+  Input functional file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-11/ses-baseline/run-01/func/sub-11_ses-baseline_acq-AP_run-01.nii.gz
+  Topup results file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-11/ses-baseline/run-01/func/topup_results_run_01/topup_results
+  Output corrected functional file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-11/ses-baseline/run-01/func/topup_results_run_01/sub-11_corrected_task-assoc_memory_run-01_bold.nii.gz
+Applytopup completed. Corrected file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-11/ses-baseline/run-01/func/topup_results_run_01/sub-11_corrected_task-assoc_memory_run-01_bold.nii.gz
+Processing subject sub-11, run 02
+Output directory created at: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-11/ses-baseline/run-02/func/topup_results_run_02
+Running topup with:
+  Input AP/PA file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-11/ses-baseline/run-02/func/sub-11_AP_PA_run-02.nii.gz
+  Acquisition parameters file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-11/ses-baseline/run-02/func/sub-11_acq_param_run-02.txt
+  Output Topup file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-11/ses-baseline/run-02/func/topup_results_run_02/topup_results
+Topup completed. Corrected output: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-11/ses-baseline/run-02/func/topup_results_run_02/corrected_AP_PA_run02.nii.gz
+Running applytopup with:
+  Input functional file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-11/ses-baseline/run-02/func/sub-11_ses-baseline_acq-AP_run-02.nii.gz
+  Topup results file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-11/ses-baseline/run-02/func/topup_results_run_02/topup_results
+  Output corrected functional file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-11/ses-baseline/run-02/func/topup_results_run_02/sub-11_corrected_task-assoc_memory_run-02_bold.nii.gz
+Applytopup completed. Corrected file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-11/ses-baseline/run-02/func/topup_results_run_02/sub-11_corrected_task-assoc_memory_run-02_bold.nii.gz
+Processing subject sub-11, run 03
+Output directory created at: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-11/ses-baseline/run-03/func/topup_results_run_03
+Running topup with:
+  Input AP/PA file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-11/ses-baseline/run-03/func/sub-11_AP_PA_run-03.nii.gz
+  Acquisition parameters file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-11/ses-baseline/run-03/func/sub-11_acq_param_run-03.txt
+  Output Topup file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-11/ses-baseline/run-03/func/topup_results_run_03/topup_results
+Topup completed. Corrected output: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-11/ses-baseline/run-03/func/topup_results_run_03/corrected_AP_PA_run03.nii.gz
+Running applytopup with:
+  Input functional file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-11/ses-baseline/run-03/func/sub-11_ses-baseline_acq-AP_run-03.nii.gz
+  Topup results file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-11/ses-baseline/run-03/func/topup_results_run_03/topup_results
+  Output corrected functional file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-11/ses-baseline/run-03/func/topup_results_run_03/sub-11_corrected_task-assoc_memory_run-03_bold.nii.gz
+Applytopup completed. Corrected file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-11/ses-baseline/run-03/func/topup_results_run_03/sub-11_corrected_task-assoc_memory_run-03_bold.nii.gz
+Processing subject sub-13, run 01
+Output directory created at: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-13/ses-baseline/run-01/func/topup_results_run_01
+Running topup with:
+  Input AP/PA file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-13/ses-baseline/run-01/func/sub-13_AP_PA_run-01.nii.gz
+  Acquisition parameters file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-13/ses-baseline/run-01/func/sub-13_acq_param_run-01.txt
+  Output Topup file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-13/ses-baseline/run-01/func/topup_results_run_01/topup_results
+Topup completed. Corrected output: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-13/ses-baseline/run-01/func/topup_results_run_01/corrected_AP_PA_run01.nii.gz
+Running applytopup with:
+  Input functional file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-13/ses-baseline/run-01/func/sub-13_ses-baseline_acq-AP_run-01.nii.gz
+  Topup results file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-13/ses-baseline/run-01/func/topup_results_run_01/topup_results
+  Output corrected functional file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-13/ses-baseline/run-01/func/topup_results_run_01/sub-13_corrected_task-assoc_memory_run-01_bold.nii.gz
+Applytopup completed. Corrected file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-13/ses-baseline/run-01/func/topup_results_run_01/sub-13_corrected_task-assoc_memory_run-01_bold.nii.gz
+Processing subject sub-13, run 02
+Output directory created at: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-13/ses-baseline/run-02/func/topup_results_run_02
+Running topup with:
+  Input AP/PA file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-13/ses-baseline/run-02/func/sub-13_AP_PA_run-02.nii.gz
+  Acquisition parameters file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-13/ses-baseline/run-02/func/sub-13_acq_param_run-02.txt
+  Output Topup file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-13/ses-baseline/run-02/func/topup_results_run_02/topup_results
+Topup completed. Corrected output: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-13/ses-baseline/run-02/func/topup_results_run_02/corrected_AP_PA_run02.nii.gz
+Running applytopup with:
+  Input functional file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-13/ses-baseline/run-02/func/sub-13_ses-baseline_acq-AP_run-02.nii.gz
+  Topup results file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-13/ses-baseline/run-02/func/topup_results_run_02/topup_results
+  Output corrected functional file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-13/ses-baseline/run-02/func/topup_results_run_02/sub-13_corrected_task-assoc_memory_run-02_bold.nii.gz
+Applytopup completed. Corrected file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-13/ses-baseline/run-02/func/topup_results_run_02/sub-13_corrected_task-assoc_memory_run-02_bold.nii.gz
+Processing subject sub-13, run 03
+Output directory created at: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-13/ses-baseline/run-03/func/topup_results_run_03
+Running topup with:
+  Input AP/PA file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-13/ses-baseline/run-03/func/sub-13_AP_PA_run-03.nii.gz
+  Acquisition parameters file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-13/ses-baseline/run-03/func/sub-13_acq_param_run-03.txt
+  Output Topup file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-13/ses-baseline/run-03/func/topup_results_run_03/topup_results
+Topup completed. Corrected output: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-13/ses-baseline/run-03/func/topup_results_run_03/corrected_AP_PA_run03.nii.gz
+Running applytopup with:
+  Input functional file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-13/ses-baseline/run-03/func/sub-13_ses-baseline_acq-AP_run-03.nii.gz
+  Topup results file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-13/ses-baseline/run-03/func/topup_results_run_03/topup_results
+  Output corrected functional file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-13/ses-baseline/run-03/func/topup_results_run_03/sub-13_corrected_task-assoc_memory_run-03_bold.nii.gz
+Applytopup completed. Corrected file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-13/ses-baseline/run-03/func/topup_results_run_03/sub-13_corrected_task-assoc_memory_run-03_bold.nii.gz
+Processing subject sub-14, run 01
+Output directory created at: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-14/ses-baseline/run-01/func/topup_results_run_01
+Running topup with:
+  Input AP/PA file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-14/ses-baseline/run-01/func/sub-14_AP_PA_run-01.nii.gz
+  Acquisition parameters file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-14/ses-baseline/run-01/func/sub-14_acq_param_run-01.txt
+  Output Topup file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-14/ses-baseline/run-01/func/topup_results_run_01/topup_results
+Topup completed. Corrected output: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-14/ses-baseline/run-01/func/topup_results_run_01/corrected_AP_PA_run01.nii.gz
+Running applytopup with:
+  Input functional file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-14/ses-baseline/run-01/func/sub-14_ses-baseline_acq-AP_run-01.nii.gz
+  Topup results file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-14/ses-baseline/run-01/func/topup_results_run_01/topup_results
+  Output corrected functional file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-14/ses-baseline/run-01/func/topup_results_run_01/sub-14_corrected_task-assoc_memory_run-01_bold.nii.gz
+Applytopup completed. Corrected file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-14/ses-baseline/run-01/func/topup_results_run_01/sub-14_corrected_task-assoc_memory_run-01_bold.nii.gz
+Processing subject sub-14, run 02
+Output directory created at: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-14/ses-baseline/run-02/func/topup_results_run_02
+Running topup with:
+  Input AP/PA file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-14/ses-baseline/run-02/func/sub-14_AP_PA_run-02.nii.gz
+  Acquisition parameters file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-14/ses-baseline/run-02/func/sub-14_acq_param_run-02.txt
+  Output Topup file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-14/ses-baseline/run-02/func/topup_results_run_02/topup_results
+Topup completed. Corrected output: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-14/ses-baseline/run-02/func/topup_results_run_02/corrected_AP_PA_run02.nii.gz
+Running applytopup with:
+  Input functional file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-14/ses-baseline/run-02/func/sub-14_ses-baseline_acq-AP_run-02.nii.gz
+  Topup results file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-14/ses-baseline/run-02/func/topup_results_run_02/topup_results
+  Output corrected functional file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-14/ses-baseline/run-02/func/topup_results_run_02/sub-14_corrected_task-assoc_memory_run-02_bold.nii.gz
+Applytopup completed. Corrected file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-14/ses-baseline/run-02/func/topup_results_run_02/sub-14_corrected_task-assoc_memory_run-02_bold.nii.gz
+Processing subject sub-14, run 03
+Output directory created at: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-14/ses-baseline/run-03/func/topup_results_run_03
+Running topup with:
+  Input AP/PA file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-14/ses-baseline/run-03/func/sub-14_AP_PA_run-03.nii.gz
+  Acquisition parameters file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-14/ses-baseline/run-03/func/sub-14_acq_param_run-03.txt
+  Output Topup file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-14/ses-baseline/run-03/func/topup_results_run_03/topup_results
+Topup completed. Corrected output: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-14/ses-baseline/run-03/func/topup_results_run_03/corrected_AP_PA_run03.nii.gz
+Running applytopup with:
+  Input functional file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-14/ses-baseline/run-03/func/sub-14_ses-baseline_acq-AP_run-03.nii.gz
+  Topup results file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-14/ses-baseline/run-03/func/topup_results_run_03/topup_results
+  Output corrected functional file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-14/ses-baseline/run-03/func/topup_results_run_03/sub-14_corrected_task-assoc_memory_run-03_bold.nii.gz
+Applytopup completed. Corrected file: /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-14/ses-baseline/run-03/func/topup_results_run_03/sub-14_corrected_task-assoc_memory_run-03_bold.nii.gz

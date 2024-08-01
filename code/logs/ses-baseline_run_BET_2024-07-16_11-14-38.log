@@ -1,0 +1,69 @@
+sub-02 BET has already been run
+sub-03 BET has already been run
+sub-04 BET has already been run
+sub-05 BET has already been run
+sub-06 BET has already been run
+sub-07 BET has already been run
+Running BET for sub-08
+Input file: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat/Assoc_Memory_1st-Level/sub-08/ses-baseline/anat/sub-08_T1w.nii.gz
+Output will be saved as: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat/Assoc_Memory_1st-Level/sub-08/ses-baseline/anat/sub-08_T1w_brain.nii.gz
+Running BET for sub-09
+Input file: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat/Assoc_Memory_1st-Level/sub-09/ses-baseline/anat/sub-09_T1w.nii.gz
+Output will be saved as: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat/Assoc_Memory_1st-Level/sub-09/ses-baseline/anat/sub-09_T1w_brain.nii.gz
+Running BET for sub-10
+Input file: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat/Assoc_Memory_1st-Level/sub-10/ses-baseline/anat/sub-10_T1w.nii.gz
+Output will be saved as: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat/Assoc_Memory_1st-Level/sub-10/ses-baseline/anat/sub-10_T1w_brain.nii.gz
+Running BET for sub-11
+Input file: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat/Assoc_Memory_1st-Level/sub-11/ses-baseline/anat/sub-11_T1w.nii.gz
+Output will be saved as: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat/Assoc_Memory_1st-Level/sub-11/ses-baseline/anat/sub-11_T1w_brain.nii.gz
+Running BET for sub-13
+Input file: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat/Assoc_Memory_1st-Level/sub-13/ses-baseline/anat/sub-13_T1w.nii.gz
+Output will be saved as: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat/Assoc_Memory_1st-Level/sub-13/ses-baseline/anat/sub-13_T1w_brain.nii.gz
+Running BET for sub-14
+Input file: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat/Assoc_Memory_1st-Level/sub-14/ses-baseline/anat/sub-14_T1w.nii.gz
+Output will be saved as: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat/Assoc_Memory_1st-Level/sub-14/ses-baseline/anat/sub-14_T1w_brain.nii.gz
+Running BET for sub-15
+Input file: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat/Assoc_Memory_1st-Level/sub-15/ses-baseline/anat/sub-15_T1w.nii.gz
+Output will be saved as: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat/Assoc_Memory_1st-Level/sub-15/ses-baseline/anat/sub-15_T1w_brain.nii.gz
+Running BET for sub-16
+Input file: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat/Assoc_Memory_1st-Level/sub-16/ses-baseline/anat/sub-16_T1w.nii.gz
+Output will be saved as: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat/Assoc_Memory_1st-Level/sub-16/ses-baseline/anat/sub-16_T1w_brain.nii.gz
+Running BET for sub-17
+Input file: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat/Assoc_Memory_1st-Level/sub-17/ses-baseline/anat/sub-17_T1w.nii.gz
+Output will be saved as: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat/Assoc_Memory_1st-Level/sub-17/ses-baseline/anat/sub-17_T1w_brain.nii.gz
+Running BET for sub-18
+Input file: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat/Assoc_Memory_1st-Level/sub-18/ses-baseline/anat/sub-18_T1w.nii.gz
+Output will be saved as: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat/Assoc_Memory_1st-Level/sub-18/ses-baseline/anat/sub-18_T1w_brain.nii.gz
+Running BET for sub-19
+Input file: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat/Assoc_Memory_1st-Level/sub-19/ses-baseline/anat/sub-19_T1w.nii.gz
+Output will be saved as: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat/Assoc_Memory_1st-Level/sub-19/ses-baseline/anat/sub-19_T1w_brain.nii.gz
+Running BET for sub-20
+Input file: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat/Assoc_Memory_1st-Level/sub-20/ses-baseline/anat/sub-20_T1w.nii.gz
+Output will be saved as: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat/Assoc_Memory_1st-Level/sub-20/ses-baseline/anat/sub-20_T1w_brain.nii.gz
+Running BET for sub-21
+Input file: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat/Assoc_Memory_1st-Level/sub-21/ses-baseline/anat/sub-21_T1w.nii.gz
+Output will be saved as: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat/Assoc_Memory_1st-Level/sub-21/ses-baseline/anat/sub-21_T1w_brain.nii.gz
+Running BET for sub-22
+Input file: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat/Assoc_Memory_1st-Level/sub-22/ses-baseline/anat/sub-22_T1w.nii.gz
+Output will be saved as: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat/Assoc_Memory_1st-Level/sub-22/ses-baseline/anat/sub-22_T1w_brain.nii.gz
+Running BET for sub-23
+Input file: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat/Assoc_Memory_1st-Level/sub-23/ses-baseline/anat/sub-23_T1w.nii.gz
+Output will be saved as: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat/Assoc_Memory_1st-Level/sub-23/ses-baseline/anat/sub-23_T1w_brain.nii.gz
+Running BET for sub-24
+Input file: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat/Assoc_Memory_1st-Level/sub-24/ses-baseline/anat/sub-24_T1w.nii.gz
+Output will be saved as: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat/Assoc_Memory_1st-Level/sub-24/ses-baseline/anat/sub-24_T1w_brain.nii.gz
+Running BET for sub-25
+Input file: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat/Assoc_Memory_1st-Level/sub-25/ses-baseline/anat/sub-25_T1w.nii.gz
+Output will be saved as: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat/Assoc_Memory_1st-Level/sub-25/ses-baseline/anat/sub-25_T1w_brain.nii.gz
+Running BET for sub-26
+Input file: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat/Assoc_Memory_1st-Level/sub-26/ses-baseline/anat/sub-26_T1w.nii.gz
+Output will be saved as: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat/Assoc_Memory_1st-Level/sub-26/ses-baseline/anat/sub-26_T1w_brain.nii.gz
+Running BET for sub-27
+Input file: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat/Assoc_Memory_1st-Level/sub-27/ses-baseline/anat/sub-27_T1w.nii.gz
+Output will be saved as: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat/Assoc_Memory_1st-Level/sub-27/ses-baseline/anat/sub-27_T1w_brain.nii.gz
+Running BET for sub-28
+Input file: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat/Assoc_Memory_1st-Level/sub-28/ses-baseline/anat/sub-28_T1w.nii.gz
+Output will be saved as: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat/Assoc_Memory_1st-Level/sub-28/ses-baseline/anat/sub-28_T1w_brain.nii.gz
+Running BET for sub-29
+Input file: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat/Assoc_Memory_1st-Level/sub-29/ses-baseline/anat/sub-29_T1w.nii.gz
+Output will be saved as: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat/Assoc_Memory_1st-Level/sub-29/ses-baseline/anat/sub-29_T1w_brain.nii.gz

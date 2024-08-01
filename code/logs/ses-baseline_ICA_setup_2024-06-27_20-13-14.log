@@ -1,0 +1,487 @@
+Successfully copied functional data from /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-02/ses-baseline/run-01/func/topup_results_run_01/sub-02_corrected_task-assoc_memory_run-01_bold.nii.gz to /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-02/ses-baseline/func
+Looking for event files in /Users/nagamatsulab/Desktop/BIDS/BIDS_dataset/sub-02/ses-baseline/func
+sub-02_ses-baseline_task-assoc_memory_run-01_events.tsv
+sub-02_ses-baseline_task-assoc_memory_run-02_events.tsv
+sub-02_ses-baseline_task-assoc_memory_run-03_events.tsv
+Processing sub-02_ses-baseline_task-assoc_memory_run-01_events.tsv for run-01...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_encoding_pair_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_recog_pair_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_encoding_place_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_recog_place_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_encoding_face_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_recog_face_run-01.txt
+Processing sub-02_ses-baseline_task-assoc_memory_run-02_events.tsv for run-02...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_encoding_pair_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_recog_pair_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_encoding_place_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_recog_place_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_encoding_face_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_recog_face_run-02.txt
+Processing sub-02_ses-baseline_task-assoc_memory_run-03_events.tsv for run-03...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_encoding_pair_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_recog_pair_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_encoding_place_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_recog_place_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_encoding_face_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_recog_face_run-03.txt
+Successfully copied functional data from /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-02/ses-baseline/run-02/func/topup_results_run_02/sub-02_corrected_task-assoc_memory_run-02_bold.nii.gz to /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-02/ses-baseline/func
+Looking for event files in /Users/nagamatsulab/Desktop/BIDS/BIDS_dataset/sub-02/ses-baseline/func
+sub-02_ses-baseline_task-assoc_memory_run-01_events.tsv
+sub-02_ses-baseline_task-assoc_memory_run-02_events.tsv
+sub-02_ses-baseline_task-assoc_memory_run-03_events.tsv
+Processing sub-02_ses-baseline_task-assoc_memory_run-01_events.tsv for run-01...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_encoding_pair_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_recog_pair_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_encoding_place_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_recog_place_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_encoding_face_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_recog_face_run-01.txt
+Processing sub-02_ses-baseline_task-assoc_memory_run-02_events.tsv for run-02...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_encoding_pair_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_recog_pair_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_encoding_place_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_recog_place_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_encoding_face_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_recog_face_run-02.txt
+Processing sub-02_ses-baseline_task-assoc_memory_run-03_events.tsv for run-03...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_encoding_pair_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_recog_pair_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_encoding_place_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_recog_place_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_encoding_face_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_recog_face_run-03.txt
+Successfully copied functional data from /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-02/ses-baseline/run-03/func/topup_results_run_03/sub-02_corrected_task-assoc_memory_run-03_bold.nii.gz to /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-02/ses-baseline/func
+Looking for event files in /Users/nagamatsulab/Desktop/BIDS/BIDS_dataset/sub-02/ses-baseline/func
+sub-02_ses-baseline_task-assoc_memory_run-01_events.tsv
+sub-02_ses-baseline_task-assoc_memory_run-02_events.tsv
+sub-02_ses-baseline_task-assoc_memory_run-03_events.tsv
+Processing sub-02_ses-baseline_task-assoc_memory_run-01_events.tsv for run-01...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_encoding_pair_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_recog_pair_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_encoding_place_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_recog_place_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_encoding_face_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_recog_face_run-01.txt
+Processing sub-02_ses-baseline_task-assoc_memory_run-02_events.tsv for run-02...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_encoding_pair_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_recog_pair_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_encoding_place_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_recog_place_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_encoding_face_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_recog_face_run-02.txt
+Processing sub-02_ses-baseline_task-assoc_memory_run-03_events.tsv for run-03...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_encoding_pair_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_recog_pair_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_encoding_place_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_recog_place_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_encoding_face_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_recog_face_run-03.txt
+Successfully copied T1w image from /Users/nagamatsulab/Desktop/BIDS/BIDS_dataset/sub-02/ses-baseline/anat/sub-02_T1w.nii.gz to /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-02/ses-baseline/anat
+Running BET brain extraction for sub-02_T1w.nii.gz
+BET brain extraction completed for sub-02_T1w.nii.gz
+Successfully copied functional data from /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-03/ses-baseline/run-01/func/topup_results_run_01/sub-03_corrected_task-assoc_memory_run-01_bold.nii.gz to /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-03/ses-baseline/func
+Looking for event files in /Users/nagamatsulab/Desktop/BIDS/BIDS_dataset/sub-03/ses-baseline/func
+sub-03_ses-baseline_task-assoc_memory_run-01_events.tsv
+sub-03_ses-baseline_task-assoc_memory_run-02_events.tsv
+sub-03_ses-baseline_task-assoc_memory_run-03_events.tsv
+Processing sub-03_ses-baseline_task-assoc_memory_run-01_events.tsv for run-01...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_encoding_pair_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_recog_pair_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_encoding_place_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_recog_place_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_encoding_face_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_recog_face_run-01.txt
+Processing sub-03_ses-baseline_task-assoc_memory_run-02_events.tsv for run-02...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_encoding_pair_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_recog_pair_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_encoding_place_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_recog_place_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_encoding_face_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_recog_face_run-02.txt
+Processing sub-03_ses-baseline_task-assoc_memory_run-03_events.tsv for run-03...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_encoding_pair_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_recog_pair_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_encoding_place_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_recog_place_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_encoding_face_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_recog_face_run-03.txt
+Successfully copied functional data from /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-03/ses-baseline/run-02/func/topup_results_run_02/sub-03_corrected_task-assoc_memory_run-02_bold.nii.gz to /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-03/ses-baseline/func
+Looking for event files in /Users/nagamatsulab/Desktop/BIDS/BIDS_dataset/sub-03/ses-baseline/func
+sub-03_ses-baseline_task-assoc_memory_run-01_events.tsv
+sub-03_ses-baseline_task-assoc_memory_run-02_events.tsv
+sub-03_ses-baseline_task-assoc_memory_run-03_events.tsv
+Processing sub-03_ses-baseline_task-assoc_memory_run-01_events.tsv for run-01...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_encoding_pair_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_recog_pair_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_encoding_place_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_recog_place_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_encoding_face_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_recog_face_run-01.txt
+Processing sub-03_ses-baseline_task-assoc_memory_run-02_events.tsv for run-02...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_encoding_pair_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_recog_pair_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_encoding_place_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_recog_place_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_encoding_face_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_recog_face_run-02.txt
+Processing sub-03_ses-baseline_task-assoc_memory_run-03_events.tsv for run-03...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_encoding_pair_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_recog_pair_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_encoding_place_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_recog_place_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_encoding_face_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_recog_face_run-03.txt
+Successfully copied functional data from /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-03/ses-baseline/run-03/func/topup_results_run_03/sub-03_corrected_task-assoc_memory_run-03_bold.nii.gz to /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-03/ses-baseline/func
+Looking for event files in /Users/nagamatsulab/Desktop/BIDS/BIDS_dataset/sub-03/ses-baseline/func
+sub-03_ses-baseline_task-assoc_memory_run-01_events.tsv
+sub-03_ses-baseline_task-assoc_memory_run-02_events.tsv
+sub-03_ses-baseline_task-assoc_memory_run-03_events.tsv
+Processing sub-03_ses-baseline_task-assoc_memory_run-01_events.tsv for run-01...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_encoding_pair_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_recog_pair_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_encoding_place_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_recog_place_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_encoding_face_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_recog_face_run-01.txt
+Processing sub-03_ses-baseline_task-assoc_memory_run-02_events.tsv for run-02...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_encoding_pair_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_recog_pair_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_encoding_place_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_recog_place_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_encoding_face_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_recog_face_run-02.txt
+Processing sub-03_ses-baseline_task-assoc_memory_run-03_events.tsv for run-03...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_encoding_pair_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_recog_pair_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_encoding_place_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_recog_place_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_encoding_face_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-03/ses-baseline/sub-03_ses-baseline_task-assoc_memory_recog_face_run-03.txt
+Successfully copied T1w image from /Users/nagamatsulab/Desktop/BIDS/BIDS_dataset/sub-03/ses-baseline/anat/sub-03_T1w.nii.gz to /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-03/ses-baseline/anat
+Running BET brain extraction for sub-03_T1w.nii.gz
+BET brain extraction completed for sub-03_T1w.nii.gz
+Successfully copied functional data from /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-04/ses-baseline/run-01/func/topup_results_run_01/sub-04_corrected_task-assoc_memory_run-01_bold.nii.gz to /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-04/ses-baseline/func
+Looking for event files in /Users/nagamatsulab/Desktop/BIDS/BIDS_dataset/sub-04/ses-baseline/func
+sub-04_ses-baseline_task-assoc_memory_run-01_events.tsv
+sub-04_ses-baseline_task-assoc_memory_run-02_events.tsv
+sub-04_ses-baseline_task-assoc_memory_run-03_events.tsv
+Processing sub-04_ses-baseline_task-assoc_memory_run-01_events.tsv for run-01...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_encoding_pair_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_recog_pair_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_encoding_place_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_recog_place_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_encoding_face_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_recog_face_run-01.txt
+Processing sub-04_ses-baseline_task-assoc_memory_run-02_events.tsv for run-02...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_encoding_pair_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_recog_pair_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_encoding_place_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_recog_place_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_encoding_face_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_recog_face_run-02.txt
+Processing sub-04_ses-baseline_task-assoc_memory_run-03_events.tsv for run-03...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_encoding_pair_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_recog_pair_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_encoding_place_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_recog_place_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_encoding_face_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_recog_face_run-03.txt
+Successfully copied functional data from /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-04/ses-baseline/run-02/func/topup_results_run_02/sub-04_corrected_task-assoc_memory_run-02_bold.nii.gz to /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-04/ses-baseline/func
+Looking for event files in /Users/nagamatsulab/Desktop/BIDS/BIDS_dataset/sub-04/ses-baseline/func
+sub-04_ses-baseline_task-assoc_memory_run-01_events.tsv
+sub-04_ses-baseline_task-assoc_memory_run-02_events.tsv
+sub-04_ses-baseline_task-assoc_memory_run-03_events.tsv
+Processing sub-04_ses-baseline_task-assoc_memory_run-01_events.tsv for run-01...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_encoding_pair_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_recog_pair_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_encoding_place_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_recog_place_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_encoding_face_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_recog_face_run-01.txt
+Processing sub-04_ses-baseline_task-assoc_memory_run-02_events.tsv for run-02...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_encoding_pair_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_recog_pair_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_encoding_place_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_recog_place_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_encoding_face_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_recog_face_run-02.txt
+Processing sub-04_ses-baseline_task-assoc_memory_run-03_events.tsv for run-03...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_encoding_pair_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_recog_pair_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_encoding_place_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_recog_place_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_encoding_face_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_recog_face_run-03.txt
+Successfully copied functional data from /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-04/ses-baseline/run-03/func/topup_results_run_03/sub-04_corrected_task-assoc_memory_run-03_bold.nii.gz to /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-04/ses-baseline/func
+Looking for event files in /Users/nagamatsulab/Desktop/BIDS/BIDS_dataset/sub-04/ses-baseline/func
+sub-04_ses-baseline_task-assoc_memory_run-01_events.tsv
+sub-04_ses-baseline_task-assoc_memory_run-02_events.tsv
+sub-04_ses-baseline_task-assoc_memory_run-03_events.tsv
+Processing sub-04_ses-baseline_task-assoc_memory_run-01_events.tsv for run-01...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_encoding_pair_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_recog_pair_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_encoding_place_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_recog_place_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_encoding_face_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_recog_face_run-01.txt
+Processing sub-04_ses-baseline_task-assoc_memory_run-02_events.tsv for run-02...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_encoding_pair_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_recog_pair_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_encoding_place_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_recog_place_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_encoding_face_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_recog_face_run-02.txt
+Processing sub-04_ses-baseline_task-assoc_memory_run-03_events.tsv for run-03...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_encoding_pair_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_recog_pair_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_encoding_place_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_recog_place_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_encoding_face_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-04/ses-baseline/sub-04_ses-baseline_task-assoc_memory_recog_face_run-03.txt
+Successfully copied T1w image from /Users/nagamatsulab/Desktop/BIDS/BIDS_dataset/sub-04/ses-baseline/anat/sub-04_T1w.nii.gz to /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-04/ses-baseline/anat
+Running BET brain extraction for sub-04_T1w.nii.gz
+BET brain extraction completed for sub-04_T1w.nii.gz
+Successfully copied functional data from /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-05/ses-baseline/run-01/func/topup_results_run_01/sub-05_corrected_task-assoc_memory_run-01_bold.nii.gz to /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-05/ses-baseline/func
+Looking for event files in /Users/nagamatsulab/Desktop/BIDS/BIDS_dataset/sub-05/ses-baseline/func
+sub-05_ses-baseline_task-assoc_memory_run-01_events.tsv
+sub-05_ses-baseline_task-assoc_memory_run-02_events.tsv
+sub-05_ses-baseline_task-assoc_memory_run-03_events.tsv
+Processing sub-05_ses-baseline_task-assoc_memory_run-01_events.tsv for run-01...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_encoding_pair_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_recog_pair_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_encoding_place_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_recog_place_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_encoding_face_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_recog_face_run-01.txt
+Processing sub-05_ses-baseline_task-assoc_memory_run-02_events.tsv for run-02...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_encoding_pair_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_recog_pair_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_encoding_place_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_recog_place_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_encoding_face_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_recog_face_run-02.txt
+Processing sub-05_ses-baseline_task-assoc_memory_run-03_events.tsv for run-03...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_encoding_pair_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_recog_pair_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_encoding_place_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_recog_place_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_encoding_face_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_recog_face_run-03.txt
+Successfully copied functional data from /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-05/ses-baseline/run-02/func/topup_results_run_02/sub-05_corrected_task-assoc_memory_run-02_bold.nii.gz to /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-05/ses-baseline/func
+Looking for event files in /Users/nagamatsulab/Desktop/BIDS/BIDS_dataset/sub-05/ses-baseline/func
+sub-05_ses-baseline_task-assoc_memory_run-01_events.tsv
+sub-05_ses-baseline_task-assoc_memory_run-02_events.tsv
+sub-05_ses-baseline_task-assoc_memory_run-03_events.tsv
+Processing sub-05_ses-baseline_task-assoc_memory_run-01_events.tsv for run-01...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_encoding_pair_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_recog_pair_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_encoding_place_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_recog_place_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_encoding_face_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_recog_face_run-01.txt
+Processing sub-05_ses-baseline_task-assoc_memory_run-02_events.tsv for run-02...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_encoding_pair_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_recog_pair_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_encoding_place_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_recog_place_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_encoding_face_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_recog_face_run-02.txt
+Processing sub-05_ses-baseline_task-assoc_memory_run-03_events.tsv for run-03...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_encoding_pair_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_recog_pair_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_encoding_place_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_recog_place_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_encoding_face_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_recog_face_run-03.txt
+Successfully copied functional data from /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-05/ses-baseline/run-03/func/topup_results_run_03/sub-05_corrected_task-assoc_memory_run-03_bold.nii.gz to /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-05/ses-baseline/func
+Looking for event files in /Users/nagamatsulab/Desktop/BIDS/BIDS_dataset/sub-05/ses-baseline/func
+sub-05_ses-baseline_task-assoc_memory_run-01_events.tsv
+sub-05_ses-baseline_task-assoc_memory_run-02_events.tsv
+sub-05_ses-baseline_task-assoc_memory_run-03_events.tsv
+Processing sub-05_ses-baseline_task-assoc_memory_run-01_events.tsv for run-01...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_encoding_pair_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_recog_pair_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_encoding_place_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_recog_place_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_encoding_face_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_recog_face_run-01.txt
+Processing sub-05_ses-baseline_task-assoc_memory_run-02_events.tsv for run-02...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_encoding_pair_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_recog_pair_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_encoding_place_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_recog_place_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_encoding_face_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_recog_face_run-02.txt
+Processing sub-05_ses-baseline_task-assoc_memory_run-03_events.tsv for run-03...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_encoding_pair_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_recog_pair_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_encoding_place_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_recog_place_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_encoding_face_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-05/ses-baseline/sub-05_ses-baseline_task-assoc_memory_recog_face_run-03.txt
+Successfully copied T1w image from /Users/nagamatsulab/Desktop/BIDS/BIDS_dataset/sub-05/ses-baseline/anat/sub-05_T1w.nii.gz to /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-05/ses-baseline/anat
+Running BET brain extraction for sub-05_T1w.nii.gz
+BET brain extraction completed for sub-05_T1w.nii.gz
+Successfully copied functional data from /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-06/ses-baseline/run-01/func/topup_results_run_01/sub-06_corrected_task-assoc_memory_run-01_bold.nii.gz to /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-06/ses-baseline/func
+Looking for event files in /Users/nagamatsulab/Desktop/BIDS/BIDS_dataset/sub-06/ses-baseline/func
+sub-06_ses-baseline_task-assoc_memory_run-01_events.tsv
+sub-06_ses-baseline_task-assoc_memory_run-02_events.tsv
+sub-06_ses-baseline_task-assoc_memory_run-03_events.tsv
+Processing sub-06_ses-baseline_task-assoc_memory_run-01_events.tsv for run-01...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_encoding_pair_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_recog_pair_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_encoding_place_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_recog_place_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_encoding_face_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_recog_face_run-01.txt
+Processing sub-06_ses-baseline_task-assoc_memory_run-02_events.tsv for run-02...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_encoding_pair_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_recog_pair_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_encoding_place_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_recog_place_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_encoding_face_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_recog_face_run-02.txt
+Processing sub-06_ses-baseline_task-assoc_memory_run-03_events.tsv for run-03...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_encoding_pair_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_recog_pair_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_encoding_place_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_recog_place_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_encoding_face_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_recog_face_run-03.txt
+Successfully copied functional data from /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-06/ses-baseline/run-02/func/topup_results_run_02/sub-06_corrected_task-assoc_memory_run-02_bold.nii.gz to /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-06/ses-baseline/func
+Looking for event files in /Users/nagamatsulab/Desktop/BIDS/BIDS_dataset/sub-06/ses-baseline/func
+sub-06_ses-baseline_task-assoc_memory_run-01_events.tsv
+sub-06_ses-baseline_task-assoc_memory_run-02_events.tsv
+sub-06_ses-baseline_task-assoc_memory_run-03_events.tsv
+Processing sub-06_ses-baseline_task-assoc_memory_run-01_events.tsv for run-01...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_encoding_pair_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_recog_pair_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_encoding_place_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_recog_place_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_encoding_face_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_recog_face_run-01.txt
+Processing sub-06_ses-baseline_task-assoc_memory_run-02_events.tsv for run-02...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_encoding_pair_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_recog_pair_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_encoding_place_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_recog_place_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_encoding_face_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_recog_face_run-02.txt
+Processing sub-06_ses-baseline_task-assoc_memory_run-03_events.tsv for run-03...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_encoding_pair_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_recog_pair_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_encoding_place_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_recog_place_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_encoding_face_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_recog_face_run-03.txt
+Successfully copied functional data from /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-06/ses-baseline/run-03/func/topup_results_run_03/sub-06_corrected_task-assoc_memory_run-03_bold.nii.gz to /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-06/ses-baseline/func
+Looking for event files in /Users/nagamatsulab/Desktop/BIDS/BIDS_dataset/sub-06/ses-baseline/func
+sub-06_ses-baseline_task-assoc_memory_run-01_events.tsv
+sub-06_ses-baseline_task-assoc_memory_run-02_events.tsv
+sub-06_ses-baseline_task-assoc_memory_run-03_events.tsv
+Processing sub-06_ses-baseline_task-assoc_memory_run-01_events.tsv for run-01...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_encoding_pair_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_recog_pair_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_encoding_place_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_recog_place_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_encoding_face_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_recog_face_run-01.txt
+Processing sub-06_ses-baseline_task-assoc_memory_run-02_events.tsv for run-02...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_encoding_pair_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_recog_pair_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_encoding_place_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_recog_place_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_encoding_face_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_recog_face_run-02.txt
+Processing sub-06_ses-baseline_task-assoc_memory_run-03_events.tsv for run-03...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_encoding_pair_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_recog_pair_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_encoding_place_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_recog_place_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_encoding_face_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-06/ses-baseline/sub-06_ses-baseline_task-assoc_memory_recog_face_run-03.txt
+Successfully copied T1w image from /Users/nagamatsulab/Desktop/BIDS/BIDS_dataset/sub-06/ses-baseline/anat/sub-06_T1w.nii.gz to /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-06/ses-baseline/anat
+Running BET brain extraction for sub-06_T1w.nii.gz
+BET brain extraction completed for sub-06_T1w.nii.gz
+Successfully copied functional data from /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-07/ses-baseline/run-01/func/topup_results_run_01/sub-07_corrected_task-assoc_memory_run-01_bold.nii.gz to /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-07/ses-baseline/func
+Looking for event files in /Users/nagamatsulab/Desktop/BIDS/BIDS_dataset/sub-07/ses-baseline/func
+sub-07_ses-baseline_task-assoc_memory_run-01_events.tsv
+sub-07_ses-baseline_task-assoc_memory_run-02_events.tsv
+sub-07_ses-baseline_task-assoc_memory_run-03_events.tsv
+Processing sub-07_ses-baseline_task-assoc_memory_run-01_events.tsv for run-01...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_encoding_pair_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_recog_pair_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_encoding_place_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_recog_place_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_encoding_face_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_recog_face_run-01.txt
+Processing sub-07_ses-baseline_task-assoc_memory_run-02_events.tsv for run-02...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_encoding_pair_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_recog_pair_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_encoding_place_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_recog_place_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_encoding_face_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_recog_face_run-02.txt
+Processing sub-07_ses-baseline_task-assoc_memory_run-03_events.tsv for run-03...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_encoding_pair_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_recog_pair_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_encoding_place_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_recog_place_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_encoding_face_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_recog_face_run-03.txt
+Successfully copied functional data from /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-07/ses-baseline/run-02/func/topup_results_run_02/sub-07_corrected_task-assoc_memory_run-02_bold.nii.gz to /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-07/ses-baseline/func
+Looking for event files in /Users/nagamatsulab/Desktop/BIDS/BIDS_dataset/sub-07/ses-baseline/func
+sub-07_ses-baseline_task-assoc_memory_run-01_events.tsv
+sub-07_ses-baseline_task-assoc_memory_run-02_events.tsv
+sub-07_ses-baseline_task-assoc_memory_run-03_events.tsv
+Processing sub-07_ses-baseline_task-assoc_memory_run-01_events.tsv for run-01...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_encoding_pair_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_recog_pair_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_encoding_place_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_recog_place_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_encoding_face_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_recog_face_run-01.txt
+Processing sub-07_ses-baseline_task-assoc_memory_run-02_events.tsv for run-02...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_encoding_pair_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_recog_pair_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_encoding_place_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_recog_place_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_encoding_face_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_recog_face_run-02.txt
+Processing sub-07_ses-baseline_task-assoc_memory_run-03_events.tsv for run-03...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_encoding_pair_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_recog_pair_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_encoding_place_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_recog_place_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_encoding_face_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_recog_face_run-03.txt
+Successfully copied functional data from /Users/nagamatsulab/Desktop/BIDS/derivatives/topup_correction/sub-07/ses-baseline/run-03/func/topup_results_run_03/sub-07_corrected_task-assoc_memory_run-03_bold.nii.gz to /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-07/ses-baseline/func
+Looking for event files in /Users/nagamatsulab/Desktop/BIDS/BIDS_dataset/sub-07/ses-baseline/func
+sub-07_ses-baseline_task-assoc_memory_run-01_events.tsv
+sub-07_ses-baseline_task-assoc_memory_run-02_events.tsv
+sub-07_ses-baseline_task-assoc_memory_run-03_events.tsv
+Processing sub-07_ses-baseline_task-assoc_memory_run-01_events.tsv for run-01...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_encoding_pair_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_recog_pair_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_encoding_place_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_recog_place_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_encoding_face_run-01.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_recog_face_run-01.txt
+Processing sub-07_ses-baseline_task-assoc_memory_run-02_events.tsv for run-02...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_encoding_pair_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_recog_pair_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_encoding_place_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_recog_place_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_encoding_face_run-02.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_recog_face_run-02.txt
+Processing sub-07_ses-baseline_task-assoc_memory_run-03_events.tsv for run-03...
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_encoding_pair_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_recog_pair_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_encoding_place_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_recog_place_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_encoding_face_run-03.txt
+Created file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/fsl_custom_events/sub-07/ses-baseline/sub-07_ses-baseline_task-assoc_memory_recog_face_run-03.txt
+Successfully copied T1w image from /Users/nagamatsulab/Desktop/BIDS/BIDS_dataset/sub-07/ses-baseline/anat/sub-07_T1w.nii.gz to /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-07/ses-baseline/anat
+Running BET brain extraction for sub-07_T1w.nii.gz
+BET brain extraction completed for sub-07_T1w.nii.gz
+All applicable files have been processed.

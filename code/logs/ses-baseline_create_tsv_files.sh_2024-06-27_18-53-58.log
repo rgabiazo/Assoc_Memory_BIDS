@@ -1,0 +1,187 @@
+Log file created at /Users/nagamatsulab/Desktop/BIDS/code/logs/ses-baseline_create_tsv_files.sh_2024-06-27_18-53-58.log
+Processing face for run 1 of sub-02...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-02/ses-baseline/encoding_response_data_face_run1_P002_BASELINE.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-02/ses-baseline/recog_response_data_face_run1_P002_BASELINE.txt
+Processing place for run 1 of sub-02...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-02/ses-baseline/encoding_response_data_place_run1_P002_BASELINE.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-02/ses-baseline/recog_response_data_place_run1_P002_BASELINE.txt
+Processing pair for run 1 of sub-02...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-02/ses-baseline/encoding_response_data_pair_run1_P002_BASELINE.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-02/ses-baseline/recog_response_data_pair_run1_P002_BASELINE.txt
+Created combined TSV for run 1 of sub-02: /Users/nagamatsulab/Desktop/BIDS/BIDS_dataset/sub-02/ses-baseline/func/sub-02_ses-baseline_task-assoc_memory_run-01_events.tsv
+Processing face for run 2 of sub-02...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-02/ses-baseline/encoding_response_data_face_run2_P002_BASELINE.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-02/ses-baseline/recog_response_data_face_run2_P002_BASELINE.txt
+Processing place for run 2 of sub-02...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-02/ses-baseline/encoding_response_data_place_run2_P002_BASELINE.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-02/ses-baseline/recog_response_data_place_run2_P002_BASELINE.txt
+Processing pair for run 2 of sub-02...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-02/ses-baseline/encoding_response_data_pair_run2_P002_BASELINE.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-02/ses-baseline/recog_response_data_pair_run2_P002_BASELINE.txt
+Created combined TSV for run 2 of sub-02: /Users/nagamatsulab/Desktop/BIDS/BIDS_dataset/sub-02/ses-baseline/func/sub-02_ses-baseline_task-assoc_memory_run-02_events.tsv
+Processing face for run 3 of sub-02...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-02/ses-baseline/encoding_response_data_face_run3_P002_BASELINE.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-02/ses-baseline/recog_response_data_face_run3_P002_BASELINE.txt
+Processing place for run 3 of sub-02...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-02/ses-baseline/encoding_response_data_place_run3_P002_BASELINE.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-02/ses-baseline/recog_response_data_place_run3_P002_BASELINE.txt
+Processing pair for run 3 of sub-02...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-02/ses-baseline/encoding_response_data_pair_run3_P002_BASELINE.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-02/ses-baseline/recog_response_data_pair_run3_P002_BASELINE.txt
+Created combined TSV for run 3 of sub-02: /Users/nagamatsulab/Desktop/BIDS/BIDS_dataset/sub-02/ses-baseline/func/sub-02_ses-baseline_task-assoc_memory_run-03_events.tsv
+All specified TSV files created and moved to /Users/nagamatsulab/Desktop/BIDS/BIDS_dataset/sub-02/ses-baseline/func for sub-02
+Processing face for run 1 of sub-03...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-03/ses-baseline/encoding_response_data_face_run1_P003_baseline.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-03/ses-baseline/recog_response_data_face_run1_P003_baseline.txt
+Processing place for run 1 of sub-03...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-03/ses-baseline/encoding_response_data_place_run1_P003_baseline.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-03/ses-baseline/recog_response_data_place_run1_P003_baseline.txt
+Processing pair for run 1 of sub-03...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-03/ses-baseline/encoding_response_data_pair_run1_P003_baseline.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-03/ses-baseline/recog_response_data_pair_run1_P003_baseline.txt
+Created combined TSV for run 1 of sub-03: /Users/nagamatsulab/Desktop/BIDS/BIDS_dataset/sub-03/ses-baseline/func/sub-03_ses-baseline_task-assoc_memory_run-01_events.tsv
+Processing face for run 2 of sub-03...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-03/ses-baseline/encoding_response_data_face_run2_P003_baseline.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-03/ses-baseline/recog_response_data_face_run2_P003_baseline.txt
+Processing place for run 2 of sub-03...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-03/ses-baseline/encoding_response_data_place_run2_P003_baseline.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-03/ses-baseline/recog_response_data_place_run2_P003_baseline.txt
+Processing pair for run 2 of sub-03...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-03/ses-baseline/encoding_response_data_pair_run2_P003_baseline.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-03/ses-baseline/recog_response_data_pair_run2_P003_baseline.txt
+Created combined TSV for run 2 of sub-03: /Users/nagamatsulab/Desktop/BIDS/BIDS_dataset/sub-03/ses-baseline/func/sub-03_ses-baseline_task-assoc_memory_run-02_events.tsv
+Processing face for run 3 of sub-03...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-03/ses-baseline/encoding_response_data_face_run3_P003_baseline.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-03/ses-baseline/recog_response_data_face_run3_P003_baseline.txt
+Processing place for run 3 of sub-03...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-03/ses-baseline/encoding_response_data_place_run3_P003_baseline.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-03/ses-baseline/recog_response_data_place_run3_P003_baseline.txt
+Processing pair for run 3 of sub-03...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-03/ses-baseline/encoding_response_data_pair_run3_P003_baseline.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-03/ses-baseline/recog_response_data_pair_run3_P003_baseline.txt
+Created combined TSV for run 3 of sub-03: /Users/nagamatsulab/Desktop/BIDS/BIDS_dataset/sub-03/ses-baseline/func/sub-03_ses-baseline_task-assoc_memory_run-03_events.tsv
+All specified TSV files created and moved to /Users/nagamatsulab/Desktop/BIDS/BIDS_dataset/sub-03/ses-baseline/func for sub-03
+Processing face for run 1 of sub-04...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-04/ses-baseline/encoding_response_data_face_run1_P004_baseline.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-04/ses-baseline/recog_response_data_face_run1_P004_baseline.txt
+Processing place for run 1 of sub-04...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-04/ses-baseline/encoding_response_data_place_run1_P004_baseline.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-04/ses-baseline/recog_response_data_place_run1_P004_baseline.txt
+Processing pair for run 1 of sub-04...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-04/ses-baseline/encoding_response_data_pair_run1_P004_baseline.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-04/ses-baseline/recog_response_data_pair_run1_P004_baseline.txt
+Created combined TSV for run 1 of sub-04: /Users/nagamatsulab/Desktop/BIDS/BIDS_dataset/sub-04/ses-baseline/func/sub-04_ses-baseline_task-assoc_memory_run-01_events.tsv
+Processing face for run 2 of sub-04...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-04/ses-baseline/encoding_response_data_face_run2_P004_baseline.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-04/ses-baseline/recog_response_data_face_run2_P004_baseline.txt
+Processing place for run 2 of sub-04...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-04/ses-baseline/encoding_response_data_place_run2_P004_baseline.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-04/ses-baseline/recog_response_data_place_run2_P004_baseline.txt
+Processing pair for run 2 of sub-04...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-04/ses-baseline/encoding_response_data_pair_run2_P004_baseline.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-04/ses-baseline/recog_response_data_pair_run2_P004_baseline.txt
+Created combined TSV for run 2 of sub-04: /Users/nagamatsulab/Desktop/BIDS/BIDS_dataset/sub-04/ses-baseline/func/sub-04_ses-baseline_task-assoc_memory_run-02_events.tsv
+Processing face for run 3 of sub-04...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-04/ses-baseline/encoding_response_data_face_run3_P004_baseline.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-04/ses-baseline/recog_response_data_face_run3_P004_baseline.txt
+Processing place for run 3 of sub-04...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-04/ses-baseline/encoding_response_data_place_run3_P004_baseline.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-04/ses-baseline/recog_response_data_place_run3_P004_baseline.txt
+Processing pair for run 3 of sub-04...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-04/ses-baseline/encoding_response_data_pair_run3_P004_baseline.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-04/ses-baseline/recog_response_data_pair_run3_P004_baseline.txt
+Created combined TSV for run 3 of sub-04: /Users/nagamatsulab/Desktop/BIDS/BIDS_dataset/sub-04/ses-baseline/func/sub-04_ses-baseline_task-assoc_memory_run-03_events.tsv
+All specified TSV files created and moved to /Users/nagamatsulab/Desktop/BIDS/BIDS_dataset/sub-04/ses-baseline/func for sub-04
+Processing face for run 1 of sub-05...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-05/ses-baseline/encoding_response_data_face_run1_P005_baseline.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-05/ses-baseline/recog_response_data_face_run1_P005_baseline.txt
+Processing place for run 1 of sub-05...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-05/ses-baseline/encoding_response_data_place_run1_P005_baseline.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-05/ses-baseline/recog_response_data_place_run1_P005_baseline.txt
+Processing pair for run 1 of sub-05...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-05/ses-baseline/encoding_response_data_pair_run1_P005_baseline.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-05/ses-baseline/recog_response_data_pair_run1_P005_baseline.txt
+Created combined TSV for run 1 of sub-05: /Users/nagamatsulab/Desktop/BIDS/BIDS_dataset/sub-05/ses-baseline/func/sub-05_ses-baseline_task-assoc_memory_run-01_events.tsv
+Processing face for run 2 of sub-05...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-05/ses-baseline/encoding_response_data_face_run2_P005_baseline.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-05/ses-baseline/recog_response_data_face_run2_P005_baseline.txt
+Processing place for run 2 of sub-05...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-05/ses-baseline/encoding_response_data_place_run2_P005_baseline.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-05/ses-baseline/recog_response_data_place_run2_P005_baseline.txt
+Processing pair for run 2 of sub-05...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-05/ses-baseline/encoding_response_data_pair_run2_P005_baseline.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-05/ses-baseline/recog_response_data_pair_run2_P005_baseline.txt
+Created combined TSV for run 2 of sub-05: /Users/nagamatsulab/Desktop/BIDS/BIDS_dataset/sub-05/ses-baseline/func/sub-05_ses-baseline_task-assoc_memory_run-02_events.tsv
+Processing face for run 3 of sub-05...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-05/ses-baseline/encoding_response_data_face_run3_P005_baseline.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-05/ses-baseline/recog_response_data_face_run3_P005_baseline.txt
+Processing place for run 3 of sub-05...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-05/ses-baseline/encoding_response_data_place_run3_P005_baseline.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-05/ses-baseline/recog_response_data_place_run3_P005_baseline.txt
+Processing pair for run 3 of sub-05...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-05/ses-baseline/encoding_response_data_pair_run3_P005_baseline.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-05/ses-baseline/recog_response_data_pair_run3_P005_baseline.txt
+Created combined TSV for run 3 of sub-05: /Users/nagamatsulab/Desktop/BIDS/BIDS_dataset/sub-05/ses-baseline/func/sub-05_ses-baseline_task-assoc_memory_run-03_events.tsv
+All specified TSV files created and moved to /Users/nagamatsulab/Desktop/BIDS/BIDS_dataset/sub-05/ses-baseline/func for sub-05
+Processing face for run 1 of sub-06...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-06/ses-baseline/encoding_response_data_face_run1_P006_baseline.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-06/ses-baseline/recog_response_data_face_run1_P006_baseline.txt
+Processing place for run 1 of sub-06...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-06/ses-baseline/encoding_response_data_place_run1_P006_baseline.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-06/ses-baseline/recog_response_data_place_run1_P006_baseline.txt
+Processing pair for run 1 of sub-06...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-06/ses-baseline/encoding_response_data_pair_run1_P006_baseline.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-06/ses-baseline/recog_response_data_pair_run1_P006_baseline.txt
+Created combined TSV for run 1 of sub-06: /Users/nagamatsulab/Desktop/BIDS/BIDS_dataset/sub-06/ses-baseline/func/sub-06_ses-baseline_task-assoc_memory_run-01_events.tsv
+Processing face for run 2 of sub-06...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-06/ses-baseline/encoding_response_data_face_run2_P006_BASELINE.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-06/ses-baseline/recog_response_data_face_run2_P006_BASELINE.txt
+Processing place for run 2 of sub-06...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-06/ses-baseline/encoding_response_data_place_run2_P006_BASELINE.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-06/ses-baseline/recog_response_data_place_run2_P006_BASELINE.txt
+Processing pair for run 2 of sub-06...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-06/ses-baseline/encoding_response_data_pair_run2_P006_BASELINE.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-06/ses-baseline/recog_response_data_pair_run2_P006_BASELINE.txt
+Created combined TSV for run 2 of sub-06: /Users/nagamatsulab/Desktop/BIDS/BIDS_dataset/sub-06/ses-baseline/func/sub-06_ses-baseline_task-assoc_memory_run-02_events.tsv
+Processing face for run 3 of sub-06...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-06/ses-baseline/encoding_response_data_face_run3_P006_BASELINE.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-06/ses-baseline/recog_response_data_face_run3_P006_BASELINE.txt
+Processing place for run 3 of sub-06...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-06/ses-baseline/encoding_response_data_place_run3_P006_BASELINE.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-06/ses-baseline/recog_response_data_place_run3_P006_BASELINE.txt
+Processing pair for run 3 of sub-06...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-06/ses-baseline/encoding_response_data_pair_run3_P006_BASELINE.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-06/ses-baseline/recog_response_data_pair_run3_P006_BASELINE.txt
+Created combined TSV for run 3 of sub-06: /Users/nagamatsulab/Desktop/BIDS/BIDS_dataset/sub-06/ses-baseline/func/sub-06_ses-baseline_task-assoc_memory_run-03_events.tsv
+All specified TSV files created and moved to /Users/nagamatsulab/Desktop/BIDS/BIDS_dataset/sub-06/ses-baseline/func for sub-06
+Processing face for run 1 of sub-07...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-07/ses-baseline/encoding_response_data_face_run1_P007_baseline.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-07/ses-baseline/recog_response_data_face_run1_P007_baseline.txt
+Processing place for run 1 of sub-07...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-07/ses-baseline/encoding_response_data_place_run1_P007_baseline.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-07/ses-baseline/recog_response_data_place_run1_P007_baseline.txt
+Processing pair for run 1 of sub-07...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-07/ses-baseline/encoding_response_data_pair_run1_P007_baseline.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-07/ses-baseline/recog_response_data_pair_run1_P007_baseline.txt
+Created combined TSV for run 1 of sub-07: /Users/nagamatsulab/Desktop/BIDS/BIDS_dataset/sub-07/ses-baseline/func/sub-07_ses-baseline_task-assoc_memory_run-01_events.tsv
+Processing face for run 2 of sub-07...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-07/ses-baseline/encoding_response_data_face_run2_P007_baseline.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-07/ses-baseline/recog_response_data_face_run2_P007_baseline.txt
+Processing place for run 2 of sub-07...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-07/ses-baseline/encoding_response_data_place_run2_P007_baseline.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-07/ses-baseline/recog_response_data_place_run2_P007_baseline.txt
+Processing pair for run 2 of sub-07...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-07/ses-baseline/encoding_response_data_pair_run2_P007_baseline.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-07/ses-baseline/recog_response_data_pair_run2_P007_baseline.txt
+Created combined TSV for run 2 of sub-07: /Users/nagamatsulab/Desktop/BIDS/BIDS_dataset/sub-07/ses-baseline/func/sub-07_ses-baseline_task-assoc_memory_run-02_events.tsv
+Processing face for run 3 of sub-07...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-07/ses-baseline/encoding_response_data_face_run3_P007_baseline.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-07/ses-baseline/recog_response_data_face_run3_P007_baseline.txt
+Processing place for run 3 of sub-07...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-07/ses-baseline/encoding_response_data_place_run3_P007_baseline.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-07/ses-baseline/recog_response_data_place_run3_P007_baseline.txt
+Processing pair for run 3 of sub-07...
+Using encoding file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-07/ses-baseline/encoding_response_data_pair_run3_P007_baseline.txt
+Using recognition file: /Users/nagamatsulab/Desktop/BIDS/sourcedata/custom_txt/sub-07/ses-baseline/recog_response_data_pair_run3_P007_baseline.txt
+Created combined TSV for run 3 of sub-07: /Users/nagamatsulab/Desktop/BIDS/BIDS_dataset/sub-07/ses-baseline/func/sub-07_ses-baseline_task-assoc_memory_run-03_events.tsv
+All specified TSV files created and moved to /Users/nagamatsulab/Desktop/BIDS/BIDS_dataset/sub-07/ses-baseline/func for sub-07

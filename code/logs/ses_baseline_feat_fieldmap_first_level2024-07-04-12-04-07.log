@@ -1,0 +1,98 @@
+Processing Subject: sub-15, Run: 01
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-15/ses-baseline/func/sub-15_corrected_task-assoc_memory_run-01_bold
+High Res File: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-15/ses-baseline/anat/sub-15_T1w_brain
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Levelsub-15/ses-baseline/run-01
+child process exited abnormally
+    while executing
+"fsl:exec "${FSLDIR}/bin/feat_model design" $fmri(featModelOpts) -N feat0_model -l logs "
+    (procedure "firstLevelMaster" line 43)
+    invoked from within
+"firstLevelMaster $session"
+    invoked from within
+"if { $done_something == 0 } {
+
+    if { ! $fmri(inmelodic) } {
+       if { $fmri(level) == 1 } {
+	      for { set session 1 } { $session <= $fmri(mult..."
+    (file "/Users/nagamatsulab/fsl/bin/feat" line 390)
+Processing Subject: sub-15, Run: 02
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-15/ses-baseline/func/sub-15_corrected_task-assoc_memory_run-02_bold
+High Res File: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-15/ses-baseline/anat/sub-15_T1w_brain
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Levelsub-15/ses-baseline/run-02
+Processing Subject: sub-15, Run: 03
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-15/ses-baseline/func/sub-15_corrected_task-assoc_memory_run-03_bold
+High Res File: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-15/ses-baseline/anat/sub-15_T1w_brain
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Levelsub-15/ses-baseline/run-03
+Processing Subject: sub-16, Run: 01
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-16/ses-baseline/func/sub-16_corrected_task-assoc_memory_run-01_bold
+High Res File: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-16/ses-baseline/anat/sub-16_T1w_brain
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Levelsub-16/ses-baseline/run-01
+Processing Subject: sub-16, Run: 02
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-16/ses-baseline/func/sub-16_corrected_task-assoc_memory_run-02_bold
+High Res File: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-16/ses-baseline/anat/sub-16_T1w_brain
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Levelsub-16/ses-baseline/run-02
+Processing Subject: sub-16, Run: 03
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-16/ses-baseline/func/sub-16_corrected_task-assoc_memory_run-03_bold
+High Res File: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-16/ses-baseline/anat/sub-16_T1w_brain
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Levelsub-16/ses-baseline/run-03
+Processing Subject: sub-17, Run: 01
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-17/ses-baseline/func/sub-17_corrected_task-assoc_memory_run-01_bold
+High Res File: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-17/ses-baseline/anat/sub-17_T1w_brain
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Levelsub-17/ses-baseline/run-01
+Processing Subject: sub-17, Run: 02
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-17/ses-baseline/func/sub-17_corrected_task-assoc_memory_run-02_bold
+High Res File: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-17/ses-baseline/anat/sub-17_T1w_brain
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Levelsub-17/ses-baseline/run-02
+Processing Subject: sub-17, Run: 03
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-17/ses-baseline/func/sub-17_corrected_task-assoc_memory_run-03_bold
+High Res File: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-17/ses-baseline/anat/sub-17_T1w_brain
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Levelsub-17/ses-baseline/run-03
+Processing Subject: sub-18, Run: 01
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-18/ses-baseline/func/sub-18_corrected_task-assoc_memory_run-01_bold
+High Res File: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-18/ses-baseline/anat/sub-18_T1w_brain
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Levelsub-18/ses-baseline/run-01
+Processing Subject: sub-18, Run: 02
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-18/ses-baseline/func/sub-18_corrected_task-assoc_memory_run-02_bold
+High Res File: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-18/ses-baseline/anat/sub-18_T1w_brain
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Levelsub-18/ses-baseline/run-02
+Processing Subject: sub-18, Run: 03
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-18/ses-baseline/func/sub-18_corrected_task-assoc_memory_run-03_bold
+High Res File: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-18/ses-baseline/anat/sub-18_T1w_brain
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Levelsub-18/ses-baseline/run-03
+Processing Subject: sub-19, Run: 01
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-19/ses-baseline/func/sub-19_corrected_task-assoc_memory_run-01_bold
+High Res File: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-19/ses-baseline/anat/sub-19_T1w_brain
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Levelsub-19/ses-baseline/run-01
+child process exited abnormally
+    while executing
+"fsl:exec "${FSLDIR}/bin/feat_model design" $fmri(featModelOpts) -N feat0_model -l logs "
+    (procedure "firstLevelMaster" line 43)
+    invoked from within
+"firstLevelMaster $session"
+    invoked from within
+"if { $done_something == 0 } {
+
+    if { ! $fmri(inmelodic) } {
+       if { $fmri(level) == 1 } {
+	      for { set session 1 } { $session <= $fmri(mult..."
+    (file "/Users/nagamatsulab/fsl/bin/feat" line 390)
+Processing Subject: sub-19, Run: 02
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-19/ses-baseline/func/sub-19_corrected_task-assoc_memory_run-02_bold
+High Res File: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-19/ses-baseline/anat/sub-19_T1w_brain
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Levelsub-19/ses-baseline/run-02
+Processing Subject: sub-19, Run: 03
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-19/ses-baseline/func/sub-19_corrected_task-assoc_memory_run-03_bold
+High Res File: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-19/ses-baseline/anat/sub-19_T1w_brain
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Levelsub-19/ses-baseline/run-03
+Processing Subject: sub-20, Run: 01
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-20/ses-baseline/func/sub-20_corrected_task-assoc_memory_run-01_bold
+High Res File: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-20/ses-baseline/anat/sub-20_T1w_brain
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Levelsub-20/ses-baseline/run-01
+Processing Subject: sub-20, Run: 02
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-20/ses-baseline/func/sub-20_corrected_task-assoc_memory_run-02_bold
+High Res File: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-20/ses-baseline/anat/sub-20_T1w_brain
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Levelsub-20/ses-baseline/run-02
+Processing Subject: sub-20, Run: 03
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-20/ses-baseline/func/sub-20_corrected_task-assoc_memory_run-03_bold
+High Res File: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-20/ses-baseline/anat/sub-20_T1w_brain
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Levelsub-20/ses-baseline/run-03

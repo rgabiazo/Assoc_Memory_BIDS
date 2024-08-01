@@ -1,0 +1,89 @@
+Processing Subject: sub-21, Run: 01
+FEAT directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-21/feat_preproc/ses-baseline/sub-21_corrected_task-assoc_memory_run-01_preproc.feat
+Output directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-21/aroma/ses-baseline/ICA_AROMA_run-01
+Mask file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-21/ses-baseline/func/sub-21_ICA_Aroma_task-Assoc_memory_run-01_mask.nii.gz
+Processing Subject: sub-21, Run: 02
+FEAT directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-21/feat_preproc/ses-baseline/sub-21_corrected_task-assoc_memory_run-02_preproc.feat
+Output directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-21/aroma/ses-baseline/ICA_AROMA_run-02
+Mask file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-21/ses-baseline/func/sub-21_ICA_Aroma_task-Assoc_memory_run-02_mask.nii.gz
+Processing Subject: sub-21, Run: 03
+FEAT directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-21/feat_preproc/ses-baseline/sub-21_corrected_task-assoc_memory_run-03_preproc.feat
+Output directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-21/aroma/ses-baseline/ICA_AROMA_run-03
+Mask file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-21/ses-baseline/func/sub-21_ICA_Aroma_task-Assoc_memory_run-03_mask.nii.gz
+Processing Subject: sub-22, Run: 01
+FEAT directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-22/feat_preproc/ses-baseline/sub-22_corrected_task-assoc_memory_run-01_preproc.feat
+Output directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-22/aroma/ses-baseline/ICA_AROMA_run-01
+Mask file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-22/ses-baseline/func/sub-22_ICA_Aroma_task-Assoc_memory_run-01_mask.nii.gz
+Processing Subject: sub-22, Run: 02
+FEAT directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-22/feat_preproc/ses-baseline/sub-22_corrected_task-assoc_memory_run-02_preproc.feat
+Output directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-22/aroma/ses-baseline/ICA_AROMA_run-02
+Mask file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-22/ses-baseline/func/sub-22_ICA_Aroma_task-Assoc_memory_run-02_mask.nii.gz
+Processing Subject: sub-22, Run: 03
+FEAT directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-22/feat_preproc/ses-baseline/sub-22_corrected_task-assoc_memory_run-03_preproc.feat
+Output directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-22/aroma/ses-baseline/ICA_AROMA_run-03
+Mask file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-22/ses-baseline/func/sub-22_ICA_Aroma_task-Assoc_memory_run-03_mask.nii.gz
+Processing Subject: sub-23, Run: 01
+FEAT directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-23/feat_preproc/ses-baseline/sub-23_corrected_task-assoc_memory_run-01_preproc.feat
+Output directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-23/aroma/ses-baseline/ICA_AROMA_run-01
+Mask file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-23/ses-baseline/func/sub-23_ICA_Aroma_task-Assoc_memory_run-01_mask.nii.gz
+Processing Subject: sub-23, Run: 02
+FEAT directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-23/feat_preproc/ses-baseline/sub-23_corrected_task-assoc_memory_run-02_preproc.feat
+Output directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-23/aroma/ses-baseline/ICA_AROMA_run-02
+Mask file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-23/ses-baseline/func/sub-23_ICA_Aroma_task-Assoc_memory_run-02_mask.nii.gz
+Processing Subject: sub-23, Run: 03
+FEAT directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-23/feat_preproc/ses-baseline/sub-23_corrected_task-assoc_memory_run-03_preproc.feat
+Output directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-23/aroma/ses-baseline/ICA_AROMA_run-03
+Mask file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-23/ses-baseline/func/sub-23_ICA_Aroma_task-Assoc_memory_run-03_mask.nii.gz
+Processing Subject: sub-24, Run: 01
+FEAT directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-24/feat_preproc/ses-baseline/sub-24_corrected_task-assoc_memory_run-01_preproc.feat
+Output directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-24/aroma/ses-baseline/ICA_AROMA_run-01
+Mask file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-24/ses-baseline/func/sub-24_ICA_Aroma_task-Assoc_memory_run-01_mask.nii.gz
+Processing Subject: sub-24, Run: 02
+FEAT directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-24/feat_preproc/ses-baseline/sub-24_corrected_task-assoc_memory_run-02_preproc.feat
+Output directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-24/aroma/ses-baseline/ICA_AROMA_run-02
+Mask file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-24/ses-baseline/func/sub-24_ICA_Aroma_task-Assoc_memory_run-02_mask.nii.gz
+Processing Subject: sub-24, Run: 03
+FEAT directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-24/feat_preproc/ses-baseline/sub-24_corrected_task-assoc_memory_run-03_preproc.feat
+Output directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-24/aroma/ses-baseline/ICA_AROMA_run-03
+Mask file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-24/ses-baseline/func/sub-24_ICA_Aroma_task-Assoc_memory_run-03_mask.nii.gz
+Processing Subject: sub-25, Run: 01
+FEAT directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-25/feat_preproc/ses-baseline/sub-25_corrected_task-assoc_memory_run-01_preproc.feat
+Output directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-25/aroma/ses-baseline/ICA_AROMA_run-01
+Mask file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-25/ses-baseline/func/sub-25_ICA_Aroma_task-Assoc_memory_run-01_mask.nii.gz
+Processing Subject: sub-25, Run: 02
+FEAT directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-25/feat_preproc/ses-baseline/sub-25_corrected_task-assoc_memory_run-02_preproc.feat
+Output directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-25/aroma/ses-baseline/ICA_AROMA_run-02
+Mask file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-25/ses-baseline/func/sub-25_ICA_Aroma_task-Assoc_memory_run-02_mask.nii.gz
+Processing Subject: sub-25, Run: 03
+FEAT directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-25/feat_preproc/ses-baseline/sub-25_corrected_task-assoc_memory_run-03_preproc.feat
+Output directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-25/aroma/ses-baseline/ICA_AROMA_run-03
+Mask file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-25/ses-baseline/func/sub-25_ICA_Aroma_task-Assoc_memory_run-03_mask.nii.gz
+Processing Subject: sub-26, Run: 01
+FEAT directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-26/feat_preproc/ses-baseline/sub-26_corrected_task-assoc_memory_run-01_preproc.feat
+Output directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-26/aroma/ses-baseline/ICA_AROMA_run-01
+Mask file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-26/ses-baseline/func/sub-26_ICA_Aroma_task-Assoc_memory_run-01_mask.nii.gz
+Processing Subject: sub-26, Run: 02
+FEAT directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-26/feat_preproc/ses-baseline/sub-26_corrected_task-assoc_memory_run-02_preproc.feat
+Output directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-26/aroma/ses-baseline/ICA_AROMA_run-02
+Mask file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-26/ses-baseline/func/sub-26_ICA_Aroma_task-Assoc_memory_run-02_mask.nii.gz
+Processing Subject: sub-26, Run: 03
+FEAT directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-26/feat_preproc/ses-baseline/sub-26_corrected_task-assoc_memory_run-03_preproc.feat
+Output directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-26/aroma/ses-baseline/ICA_AROMA_run-03
+Mask file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-26/ses-baseline/func/sub-26_ICA_Aroma_task-Assoc_memory_run-03_mask.nii.gz
+Processing Subject: sub-27, Run: 01
+FEAT directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-27/feat_preproc/ses-baseline/sub-27_corrected_task-assoc_memory_run-01_preproc.feat
+Output directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-27/aroma/ses-baseline/ICA_AROMA_run-01
+Mask file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-27/ses-baseline/func/sub-27_ICA_Aroma_task-Assoc_memory_run-01_mask.nii.gz
+Processing Subject: sub-29, Run: 01
+FEAT directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-29/feat_preproc/ses-baseline/sub-29_corrected_task-assoc_memory_run-01_preproc.feat
+Output directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-29/aroma/ses-baseline/ICA_AROMA_run-01
+Mask file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-29/ses-baseline/func/sub-29_ICA_Aroma_task-Assoc_memory_run-01_mask.nii.gz
+Processing Subject: sub-29, Run: 02
+FEAT directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-29/feat_preproc/ses-baseline/sub-29_corrected_task-assoc_memory_run-02_preproc.feat
+Output directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-29/aroma/ses-baseline/ICA_AROMA_run-02
+Mask file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-29/ses-baseline/func/sub-29_ICA_Aroma_task-Assoc_memory_run-02_mask.nii.gz
+Processing Subject: sub-29, Run: 03
+FEAT directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-29/feat_preproc/ses-baseline/sub-29_corrected_task-assoc_memory_run-03_preproc.feat
+Output directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-29/aroma/ses-baseline/ICA_AROMA_run-03
+Mask file: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-29/ses-baseline/func/sub-29_ICA_Aroma_task-Assoc_memory_run-03_mask.nii.gz
+Moving script to /Users/nagamatsulab/Desktop/BIDS/code/scripts

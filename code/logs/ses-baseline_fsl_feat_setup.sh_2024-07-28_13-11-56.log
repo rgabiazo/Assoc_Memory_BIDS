@@ -1,0 +1,27 @@
+Processing sub-02...
+Processing sub-02_ses-baseline_task-assoc_memory_run-01_events.tsv for run-01...
+Created file: /Volumes/T7_Shield/BIDS/derivatives/feat/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_encoding_pair_run-01.txt
+Created file: /Volumes/T7_Shield/BIDS/derivatives/feat/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_recog_pair_run-01.txt
+Created file: /Volumes/T7_Shield/BIDS/derivatives/feat/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_encoding_place_run-01.txt
+Created file: /Volumes/T7_Shield/BIDS/derivatives/feat/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_recog_place_run-01.txt
+Created file: /Volumes/T7_Shield/BIDS/derivatives/feat/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_encoding_face_run-01.txt
+Created file: /Volumes/T7_Shield/BIDS/derivatives/feat/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_recog_face_run-01.txt
+Processing sub-02_ses-baseline_task-assoc_memory_run-02_events.tsv for run-02...
+Created file: /Volumes/T7_Shield/BIDS/derivatives/feat/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_encoding_pair_run-02.txt
+Created file: /Volumes/T7_Shield/BIDS/derivatives/feat/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_recog_pair_run-02.txt
+Created file: /Volumes/T7_Shield/BIDS/derivatives/feat/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_encoding_place_run-02.txt
+Created file: /Volumes/T7_Shield/BIDS/derivatives/feat/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_recog_place_run-02.txt
+Created file: /Volumes/T7_Shield/BIDS/derivatives/feat/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_encoding_face_run-02.txt
+Created file: /Volumes/T7_Shield/BIDS/derivatives/feat/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_recog_face_run-02.txt
+Processing sub-02_ses-baseline_task-assoc_memory_run-03_events.tsv for run-03...
+Created file: /Volumes/T7_Shield/BIDS/derivatives/feat/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_encoding_pair_run-03.txt
+Created file: /Volumes/T7_Shield/BIDS/derivatives/feat/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_recog_pair_run-03.txt
+Created file: /Volumes/T7_Shield/BIDS/derivatives/feat/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_encoding_place_run-03.txt
+Created file: /Volumes/T7_Shield/BIDS/derivatives/feat/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_recog_place_run-03.txt
+Created file: /Volumes/T7_Shield/BIDS/derivatives/feat/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_encoding_face_run-03.txt
+Created file: /Volumes/T7_Shield/BIDS/derivatives/feat/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_recog_face_run-03.txt
+T1-weighted file 'sub-02_T1w.nii.gz' copied to /Volumes/T7_Shield/BIDS/derivatives/feat/Assoc_Memory_1st-Level/sub-02/ses-baseline/anat
+BOLD file 'sub-02_task-assoc_memory_run-01_bold.nii.gz' copied to /Volumes/T7_Shield/BIDS/derivatives/feat/Assoc_Memory_1st-Level/sub-02/ses-baseline/func
+BOLD file 'sub-02_task-assoc_memory_run-02_bold.nii.gz' copied to /Volumes/T7_Shield/BIDS/derivatives/feat/Assoc_Memory_1st-Level/sub-02/ses-baseline/func
+BOLD file 'sub-02_task-assoc_memory_run-03_bold.nii.gz' copied to /Volumes/T7_Shield/BIDS/derivatives/feat/Assoc_Memory_1st-Level/sub-02/ses-baseline/func
+All processing complete.

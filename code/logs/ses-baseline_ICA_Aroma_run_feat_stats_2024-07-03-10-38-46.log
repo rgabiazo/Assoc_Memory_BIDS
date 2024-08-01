@@ -1,0 +1,45 @@
+Processing Subject: sub-08, Run: 01
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-08/aroma/ses-baseline/ICA_AROMA_run-01/denoised_func_data_nonaggr
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-08/feat_stats/ses-baseline/denoised_task-assoc_memory_run-01
+Processing Subject: sub-08, Run: 02
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-08/aroma/ses-baseline/ICA_AROMA_run-02/denoised_func_data_nonaggr
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-08/feat_stats/ses-baseline/denoised_task-assoc_memory_run-02
+Processing Subject: sub-08, Run: 03
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-08/aroma/ses-baseline/ICA_AROMA_run-03/denoised_func_data_nonaggr
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-08/feat_stats/ses-baseline/denoised_task-assoc_memory_run-03
+Processing Subject: sub-09, Run: 01
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-09/aroma/ses-baseline/ICA_AROMA_run-01/denoised_func_data_nonaggr
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-09/feat_stats/ses-baseline/denoised_task-assoc_memory_run-01
+Processing Subject: sub-09, Run: 02
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-09/aroma/ses-baseline/ICA_AROMA_run-02/denoised_func_data_nonaggr
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-09/feat_stats/ses-baseline/denoised_task-assoc_memory_run-02
+Processing Subject: sub-09, Run: 03
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-09/aroma/ses-baseline/ICA_AROMA_run-03/denoised_func_data_nonaggr
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-09/feat_stats/ses-baseline/denoised_task-assoc_memory_run-03
+Processing Subject: sub-10, Run: 01
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-10/aroma/ses-baseline/ICA_AROMA_run-01/denoised_func_data_nonaggr
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-10/feat_stats/ses-baseline/denoised_task-assoc_memory_run-01
+Processing Subject: sub-10, Run: 02
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-10/aroma/ses-baseline/ICA_AROMA_run-02/denoised_func_data_nonaggr
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-10/feat_stats/ses-baseline/denoised_task-assoc_memory_run-02
+Processing Subject: sub-10, Run: 03
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-10/aroma/ses-baseline/ICA_AROMA_run-03/denoised_func_data_nonaggr
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-10/feat_stats/ses-baseline/denoised_task-assoc_memory_run-03
+Processing Subject: sub-13, Run: 01
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-13/aroma/ses-baseline/ICA_AROMA_run-01/denoised_func_data_nonaggr
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-13/feat_stats/ses-baseline/denoised_task-assoc_memory_run-01
+Processing Subject: sub-13, Run: 02
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-13/aroma/ses-baseline/ICA_AROMA_run-02/denoised_func_data_nonaggr
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-13/feat_stats/ses-baseline/denoised_task-assoc_memory_run-02
+Processing Subject: sub-13, Run: 03
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-13/aroma/ses-baseline/ICA_AROMA_run-03/denoised_func_data_nonaggr
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-13/feat_stats/ses-baseline/denoised_task-assoc_memory_run-03
+Processing Subject: sub-14, Run: 01
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-14/aroma/ses-baseline/ICA_AROMA_run-01/denoised_func_data_nonaggr
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-14/feat_stats/ses-baseline/denoised_task-assoc_memory_run-01
+Processing Subject: sub-14, Run: 02
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-14/aroma/ses-baseline/ICA_AROMA_run-02/denoised_func_data_nonaggr
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-14/feat_stats/ses-baseline/denoised_task-assoc_memory_run-02
+Processing Subject: sub-14, Run: 03
+Input 4D Data: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-14/aroma/ses-baseline/ICA_AROMA_run-03/denoised_func_data_nonaggr
+Output Directory: /Users/nagamatsulab/Desktop/BIDS/derivatives/ICA_AROMA/sub-14/feat_stats/ses-baseline/denoised_task-assoc_memory_run-03

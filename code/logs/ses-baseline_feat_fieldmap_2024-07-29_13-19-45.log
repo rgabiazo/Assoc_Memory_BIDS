@@ -1,0 +1,32 @@
+Skipping: Functional file /Volumes/T7_Shield/BIDS/derivatives/topup_correction/sub-02/ses-baseline/run-01/func/topup_results_run_01/sub-02_corrected_task-assoc_memory_run-01_bold.nii.gz not found.
+Skipping: Functional file /Volumes/T7_Shield/BIDS/derivatives/topup_correction/sub-02/ses-baseline/run-02/func/topup_results_run_02/sub-02_corrected_task-assoc_memory_run-02_bold.nii.gz not found.
+Successfully copied functional data from /Volumes/T7_Shield/BIDS/derivatives/topup_correction/sub-02/ses-baseline/run-03/func/topup_results_run_03/sub-02_corrected_task-assoc_memory_run-03_bold.nii.gz to /Volumes/T7_Shield/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-02/ses-baseline/func
+Looking for event files in /Volumes/T7_Shield/BIDS/BIDS_dataset/sub-02/ses-baseline/func
+sub-02_ses-baseline_task-assoc_memory_run-01_events.tsv
+sub-02_ses-baseline_task-assoc_memory_run-02_events.tsv
+sub-02_ses-baseline_task-assoc_memory_run-03_events.tsv
+Processing sub-02_ses-baseline_task-assoc_memory_run-01_events.tsv for run-01...
+Created file: /Volumes/T7_Shield/BIDS/derivatives/feat_fieldmap/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_encoding_pair_run-01.txt
+Created file: /Volumes/T7_Shield/BIDS/derivatives/feat_fieldmap/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_recog_pair_run-01.txt
+Created file: /Volumes/T7_Shield/BIDS/derivatives/feat_fieldmap/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_encoding_place_run-01.txt
+Created file: /Volumes/T7_Shield/BIDS/derivatives/feat_fieldmap/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_recog_place_run-01.txt
+Created file: /Volumes/T7_Shield/BIDS/derivatives/feat_fieldmap/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_encoding_face_run-01.txt
+Created file: /Volumes/T7_Shield/BIDS/derivatives/feat_fieldmap/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_recog_face_run-01.txt
+Processing sub-02_ses-baseline_task-assoc_memory_run-02_events.tsv for run-02...
+Created file: /Volumes/T7_Shield/BIDS/derivatives/feat_fieldmap/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_encoding_pair_run-02.txt
+Created file: /Volumes/T7_Shield/BIDS/derivatives/feat_fieldmap/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_recog_pair_run-02.txt
+Created file: /Volumes/T7_Shield/BIDS/derivatives/feat_fieldmap/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_encoding_place_run-02.txt
+Created file: /Volumes/T7_Shield/BIDS/derivatives/feat_fieldmap/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_recog_place_run-02.txt
+Created file: /Volumes/T7_Shield/BIDS/derivatives/feat_fieldmap/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_encoding_face_run-02.txt
+Created file: /Volumes/T7_Shield/BIDS/derivatives/feat_fieldmap/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_recog_face_run-02.txt
+Processing sub-02_ses-baseline_task-assoc_memory_run-03_events.tsv for run-03...
+Created file: /Volumes/T7_Shield/BIDS/derivatives/feat_fieldmap/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_encoding_pair_run-03.txt
+Created file: /Volumes/T7_Shield/BIDS/derivatives/feat_fieldmap/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_recog_pair_run-03.txt
+Created file: /Volumes/T7_Shield/BIDS/derivatives/feat_fieldmap/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_encoding_place_run-03.txt
+Created file: /Volumes/T7_Shield/BIDS/derivatives/feat_fieldmap/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_recog_place_run-03.txt
+Created file: /Volumes/T7_Shield/BIDS/derivatives/feat_fieldmap/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_encoding_face_run-03.txt
+Created file: /Volumes/T7_Shield/BIDS/derivatives/feat_fieldmap/fsl_custom_events/sub-02/ses-baseline/sub-02_ses-baseline_task-assoc_memory_recog_face_run-03.txt
+Successfully copied T1w image from /Volumes/T7_Shield/BIDS/BIDS_dataset/sub-02/ses-baseline/anat/sub-02_T1w.nii.gz to /Volumes/T7_Shield/BIDS/derivatives/feat_fieldmap/Assoc_Memory_1st-Level/sub-02/ses-baseline/anat
+Running BET brain extraction for sub-02_T1w.nii.gz
+BET brain extraction completed for sub-02_T1w.nii.gz
+All applicable files have been processed.
