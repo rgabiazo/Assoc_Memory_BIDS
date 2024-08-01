@@ -1,5 +1,5 @@
 # BIDS Directory for Analyzing Baseline & Endpoint Data of Associative Memory Task (Face-Place Task)
-This repository contains scripts for preprocessing and first-level analysis of a BIDS dataset, including FSL and ICA-AROMA processing steps. The dataset includes three functional runs of an associative memory task (Face-place task).
+This repository contains scripts for preprocessing and first-level analysis of a BIDS dataset, including FSL and ICA-AROMA processing steps. Assumes three functional runs of an associative memory task (Face-place task).
 
 ## Setting Up
 
